@@ -1,0 +1,1326 @@
+# sent_id = Cairo-AZ-1
+# text = Qız yoldaşına namә yazdı.
+# glossing = daughter friend-POSS.3SG-DAT write-PST.3SG
+# text_en = The girl wrote a letter to her friend.
+# text_tr = Kız, arkadaşına mektup yazdı.
+# text_kir = Кыз досуна кат жазды.
+# translit_kir = Kyz dosuna kat zhazdy .
+1	Qız	qız	NOUN	_	_	4	nsubj	_	_
+2	yoldaşına	yoldaş	NOUN	_	_	4	obl	_	_
+3	namә	namә	NOUN	_	_	4	obj	_	_
+4	yazdı	yaz	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Cairo-AZ-2
+# text = Fikr eliyәm yağış yağır.
+# glossing = think do-SUBJ.1SG rain rain-PRS.3SG
+# text_en = I think that it is raining.
+# text_tr = Sanırım yağmur yağıyor.
+# text_kir = Жамгыр жаап жатат окшойт.
+# translit_kir = Zhamgyr zhaap zhatat okshojt.
+1	Fikr	fikr	NOUN	_	_	2	compound:lvc	_	_
+2	eliyәm	el	VERB	_	_	0	root	_	_
+3	yağış	yağış	NOUN	_	_	4	nsubj	_	_
+4	yağır	yağ	VERB	_	_	2	ccomp	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Cairo-AZ-3
+# text = O çalışdı kı siqar çekmә vә әlkol içmәni tәrkidә.
+# text_en = He tried to stop smoking and drinking.
+# text_tr = Sigara ve alkol içmeyi bırakmayı denedi.
+# text_kir = Тамеки чегүүнү жана арак ичүүнү токтотууга аракет кылды.
+# translit_kir = Tameki chegüünü zhana arak ichüünü toktotuuga araket kyldy.
+1	O	o	PRON	_	_	2	nsubj	_	_
+2	çalışdı	çalış	VERB	_	_	0	root	_	_
+3	kı	ki	SCONJ	_	_	9	mark	_	_
+4	siqar	siqar	NOUN	_	_	5	compound	_	_
+5	çekmә	çek	VERB	_	_	9	xcomp	_	_
+6	vә	və	CCONJ	_	_	8	cc	_	_
+7	әlkol	alkol	NOUN	_	_	8	obj	_	_
+8	içmәni	iç	VERB	_	_	5	conj	_	_
+9	tәrkidә	tərk	VERB	_	_	2	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Cairo-AZ-4
+# text = Siz getmək istəyirsiniz?
+# text_en = Do you want to go?
+# text_tr = Gitmek istiyor musun?
+# text_kir = Кеткиң келип жатабы?
+# translit_kir = Ketkiŋ kelip zhataby?
+1	Siz	siz	PRON	_	_	3	nsubj	_	_
+2	getmək	git	VERB	_	_	3	xcomp	_	_
+3	istəyirsiniz	istә	VERB	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Cairo-AZ-5
+# text = Sam, pәncәrәni aç!
+# text_en = Sam, open the window!
+# text_tr = Sam, pencereyi aç!
+# text_kir = Сэм, терезени ач!
+# translit_kir = Sjem, terezeni ach!
+1	Sam	Sam	PROPN	_	_	4	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	4	punct	_	_
+3	pәncәrәni	pәncәrә	NOUN	_	_	4	obj	_	_
+4	aç	aç	VERB	_	_	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Cairo-AZ-6
+# text = Әrinә maşını yudurtdu.
+# text_en = She made her husband wash the car.
+# text_tr = Kocasına arabayı yıkattırdı.
+# text_kir = Күйѳѳсүнѳ унааны жуудурду.
+# translit_kir = Küjöösüno unaany zhuudurdu.
+1	Әrinә	ər	NOUN	_	_	3	obl	_	_
+2	maşını	maşın	NOUN	_	_	3	obj	_	_
+3	yudurtdu	yu	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Cairo-AZ-7
+# text = Peterin qonşusu hasarı qırmız rənglədi.
+# text_en = Peter ’s neighbor painted the fence red.
+# text[tr] = Peter'in komşusu çiti kırmızı boyadı.
+# text_kir = Питердин кошунасы тосмону кызыл түскө боёду.
+# translit_kir = Piterdin koshunasy tosmonu kyzyl tüskö boyodu.
+1	Peterin	Peter	PROPN	_	_	2	nmod	_	_
+2	qonşusu	qonşu	NOUN	_	_	5	nsubj	_	_
+3	hasarı	hasar	NOUN	_	_	5	obl	_	_
+4	qırmız	qırmız	ADJ	_	_	5	xcomp	_	_
+5	rənglədi	rənglə	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Cairo-AZ-8
+# text = Mәnin babam sәninkindәn bәtәrdi.
+# text_en = My dad is cooler than yours.
+# text[tr] = Benim babam seninkinden daha harika.
+# text_kir = Менин атам сеникинен кыйыныраак.
+# translit_kir = Menin atam senikinen kyjynyraak.
+1	Mәnin	mən	PRON	_	_	2	nmod	_	_
+2	babam	baba	NOUN	_	_	5	nsubj	_	_
+3-4	sәninkindәn	_	_	_	_	_	_	_	_
+3	sәnin	sən	PRON	_	_	4	nmod	_	_
+4	kindәn	-ki	PRON	_	_	5	nmod	_	_
+5	bәtәrdi	bətər	ADJ	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Cairo-AZ-9
+# text = Mary bronz qazandı, Peter gümüş, Jane qızıl.
+# text_en = Mary won bronze, Peter silver, and Jane gold.
+# text[tr] = Mary bronz kazandı, Peter gümüş, Jane altın.
+# text_kir = Мэри коло утту, Питер күмүш, Джейн алтын.
+# translit_kir = Mjeri kolo uttu, Piter kümüsh, Dzhejn altyn.
+1	Mary	Mary	PROPN	_	_	3	nsubj	_	_
+2	bronz	bronz	NOUN	_	_	3	obl	_	_
+3	qazandı	qazan	VERB	_	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Peter	Peter	PROPN	_	_	3	conj	_	_
+6	gümüş	gümüş	NOUN	_	_	5	orphan	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	Jane	Jane	PROPN	_	_	3	conj	_	_
+9	qızıl	qızıl	NOUN	_	_	8	orphan	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Cairo-AZ-10
+# text = İguazu böyük bir kisvərdir, ya kiçik?
+# text_en = Is Iguazu a big or a small country?
+# text[tr] = İguazu büyük bir ülke mi, yoksa küçük mü?
+# text_kir = Игуазу чоң өрөөнбү же кичинекейби?
+# translit_kir = Iguazu choŋ öröönbü zhe kichinekejbi?
+1	İguazu	İguazu	NOUN	_	_	2	nsubj	_	_
+2	böyük	böyük	ADJ	_	_	4	amod	_	_
+3	bir	bir	DET	_	_	4	det	_	_
+4	kisvərdir	keşvər	NOUN	_	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	ya	ya	CCONJ	_	_	7	cc	_	_
+7	kiçik	kiçik	ADJ	_	_	4	conj	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Cairo-AZ-11
+# text = Nә Peter Smith nә də Mary Brown, intixab ola bildi.
+# text_en = Neither Peter Smith nor Mary Brown could be selected.
+# text[tr] = Ne Peter Smith ne de Mary Brown seçilemedi.
+# text_kir = Питер Смит да, Мэри Браун да өтө албай калды.
+# translit_kir = Piter Smit da, Mjeri Braun da ötö albaj kaldy.
+1	Nә	nə	CCONJ	_	_	2	cc	_	_
+2	Peter	Peter	PROPN	_	_	10	nsubj	_	_
+3	Smith	Smith	PROPN	_	_	2	flat	_	_
+4	nә	nə	CCONJ	_	_	6	cc	_	_
+5	də	də	ADV	_	_	4	fixed	_	_
+6	Mary	Mary	PROPN	_	_	2	conj	_	_
+7	Brown	Brown	PROPN	_	_	6	flat	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	intixab	intixab	NOUN	_	_	10	compound:lvc	_	_
+10	ola	ol	VERB	_	_	0	root	_	_
+11	bildi	bil	AUX	_	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Cairo-AZ-12
+# text = Kimin yazdığını bilmirlər.
+# text_en = They have no idea who wrote it.
+# text[tr] = Kimin yazdığı konusunda hiç bir fikirleri yok.
+# text_kir = Кимдин жазгандыгы жөнүндө эч ойлору да жок.
+# translit_kir = Kimdin zhazgandygy zhönündö jech ojloru da zhok.
+1	Kimin	kim	PRON	_	_	2	nsubj	_	_
+2	yazdığını	yaz	VERB	_	_	3	ccomp	_	_
+3	bilmirlər	bil	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Cairo-AZ-13
+# text = Nәmәyә baxıran?
+# text_en = What are you looking at?
+# text[tr] = Neye bakıyorsun?
+# text_kir = Эмнени карап жатасың?
+# translit_kir = Jemneni karap zhatasyŋ?
+1	Nәmәyә	Nәmә	PRON	_	_	2	obl	_	_
+2	baxıran	bax	VERB	_	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Cairo-AZ-14
+# text = Fikr eliriz nə vaxt gələ bilərsiz?
+# text_en = When do you think you can come?
+# text[tr] = Ne zaman gelebileceğini düşünüyorsun?
+# text_kir = Качан келе алам деп ойлойсуң ?
+# translit_kir = Kachan kele alam dep ojlojsuŋ?
+1	Fikr	fikr	NOUN	_	_	2	compound:lvc	_	_
+2	eliriz	el	VERB	_	_	0	root	_	_
+3	nə	nə	PRON	_	_	4	det	_	_
+4	vaxt	vaxt	NOUN	_	_	5	obl	_	_
+5	gələ	gəl	VERB	_	_	2	xcomp	_	_
+6	bilərsiz	bil	AUX	_	_	5	aux	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Cairo-az-15
+# text = O bir dәnә maşın aldı amma qardaşı fәqәt çәrx aldı.
+# glossing = He one grain car buy-PAST.3SG but brother-3SG.POSS just bike buy-PAST.3SG
+# text_en = He bought a car but his brother just a bike.
+# text[tr] = O bir araba aldı ama erkek kardeşi sadece bir bisiklet.
+# text_kir = Ал унаа сатып алды, бирок анын иниси жөн гана велосипед.
+# translit_kir = Al unaa satyp aldy, birok anyn inisi zhön gana velosiped.
+1	O	O	PRON	_	_	5	nsubj	_	_
+2	bir	bir	NUM	_	_	3	nummod	_	_
+3	dәnә	dәnә	NOUN	_	_	4	clf	_	_
+4	maşın	maşın	NOUN	_	_	5	obj	_	_
+5	aldı	al	VERB	_	_	0	root	_	_
+6	amma	amma	CCONJ	_	_	10	cc	_	_
+7	qardaşı	qardaş	NOUN	_	_	10	nsubj	_	_
+8	fәqәt	fәqәt	ADV	_	_	9	advmod	_	_
+9	çәrx	çәrx	NOUN	_	_	10	obj	_	_
+10	aldı	al	VERB	_	_	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Cairo-az-16
+# text = Peterinәn Mary qucaxlaşdılar vә sonra otaqdan çıxdılar.
+# glossing =
+# text_en =  Peter and Mary hugged each other and then left the room.
+# text[tr] = Peter ve Mary birbirlerini kucakladılar ve sonra odadan çıktılar.	
+# text_kir = Питер менен Мэри бири-бирин кучакташты, андан соң бөлмөдөн чыгып кетишти.
+# translit_kir = Piter menen Mjeri biri-birin kuchaktashty, andan soŋ bölmödön chygyp ketishti.
+1	Peterinәn	Peter	PROPN	_	_	3	nsubj	_	_
+2	Mary	Mary	PROPN	_	_	1	conj	_	_
+3	qucaxlaşdılar	qucaxla	VERB	_	_	0	root	_	_
+4	vә	və	CCONJ	_	_	7	cc	_	_
+5	sonra	sora	ADV	_	_	7	advmod	_	_
+6	otaqdan	otaq	NOUN	_	_	7	obl	_	_
+7	çıxdılar	çıx	VERB	_	_	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Cairo-az-17
+# text = Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi.
+# glossing =
+# text_en = She should have been doing her hair but for some reason she would n't that day.
+# text[tr] = Saçını yapıyor olmalıydı ama nedense o gün yapmadı.
+# text_kir = Ал чачын  жасалгалап туруш керек болчу, бирок эмнегедир ошол күнү жасаган эмес.
+# translit_kir = Al chachyn zhasalgalap turush kerek bolchu, birok jemnegedir oshol künü zhasagan jemes.
+1	Tüklәrin	tük	NOUN	_	_	2	nsubj	_	_
+2	cürləməliydi	cürləmə	VERB	_	_	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	amma	amma	CCONJ	_	_	10	cc	_	_
+5	neçә	neçә	NUM	_	_	6	nummod	_	_
+6	dәlilә	dәlil	NOUN	_	_	10	advcl	_	_
+7	görә	görә	ADP	_	_	6	case	_	_
+8	o	o	DET	_	_	9	det	_	_
+9	gün	gün	NOUN	_	_	10	obl	_	_
+10	eləmәdi	elə	VERB	_	_	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Cairo-az-18
+# text = O çox yeyin qaçdığı için ona çata bilmәdim.
+# glossing =
+# text_en = I wasn't able to keep up, because he ran too fast.
+# text[tr] = Ayak uyduramadım çünkü çok hızlı koştu.
+# text_kir = Ага теңеле алган жокмун, анткени ал абдан тез чуркады.
+# translit_kir = Aga teŋele algan zhokmun, antkeni al abdan tez churkady.
+1	O	O	PRON	_	_	7	nsubj	_	_
+2	çox	çox	ADV	_	_	3	advmod	_	_
+3	yeyin	yeyin	ADV	_	_	4	advmod	_	_
+4	qaçdığı	qaç	VERB	_	_	7	advcl	_	_
+5	için	için	ADP	_	_	4	case	_	_
+6	ona	o	PRON	_	_	7	obl	_	_
+7	çata	çata	VERB	_	_	0	root	_	_
+8	bilmәdim	bil	AUX	_	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Cairo-az-19
+# text = Bu namә Peterdendir vә dünәn yetişibdir.
+# glossing =
+# text_en = This letter is from Peter and it was delivered yesterday.
+# text[tr] = Bu mektup Peter'den ve dün iletildi.
+# text_kir = Бул кат Питерден жана ал кечээ келди.
+# translit_kir = Bul kat Piterden zhana al kechjeje keldi.
+1	Bu	bu	DET	_	_	2	det	_	_
+2	namә	namә	NOUN	_	_	3	nsubj	_	_
+3	Peterdendir	Peter	PROPN	_	_	0	root	_	_
+4	vә	vә	CCONJ	_	_	6	cc	_	_
+5	dünәn	dünәn	NOUN	_	_	6	obl	_	_
+6	yetişibdir	yetiş	VERB	_	_	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Cairo-az-20
+# text = O Fәransәnin paytәxti, Parisdә böyüdü.
+# glossing = She France-3SG.POSS capital-GEN, Paris-LOC grow.up-PAST.3SG
+# text_en =  She grew up in Paris, the capital of France.
+# text[tr] = O Fransanın başkenti Paris'te büyüdü.
+# text_kir = Ал Франциянын борбору Парижде чоңойду.
+# translit_kir = Al Franciyanyn borboru Parizhde, choŋojdu.
+# note: changed the appos direction to keep validator happy, but this need discussion
+1	O	o	PRON	_	_	6	nsubj	_	_
+2	Fәransәnin	Fәransә	PROPN	_	_	3	nmod	_	_
+3	paytәxti	paytәxt	NOUN	_	_	6	obl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Parisdә	Paris	PROPN	_	_	3	appos	_	_
+6	böyüdü	büyü	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = udtw23-az-1
+# text = Ərim bağdakı uşağ otağının pəncərəsini tez-tez təmizləmişdi, aşpazxananınkını təmizləməmişdi.
+# glossing = husband-POSS.1SG garden-LOC-KI child room-POSS.3SG-GEN window-POSS.3SG-ACC	fast-fast clean-PFV-PST.3SG kitchen-POSS.3SG-KI-ACC clean-NEG-PFV-PST.3SG
+# text_en = 'My spouse cleaned the windows of the children's room at the summer house hastily, (but) didn't clean the kitchen's.'
+# text_tr = Eşim yazlıktaki çocuk odasının penceresini apar topar temizlemiş, mutfağınkini temizlememişti.
+# text_kir = Жубайым дачадагы балдар бөлмөсүнүн терезесин шаша-буша тазалап, ашкананыкын тазалабай коюптур.
+# translit_kir = Zhubajym dachadagy baldar bölmösünün terezesin shasha-busha tazalap, ashkananykyn tazalabaj koyuptur.
+1	Ərim	ər	NOUN	_	_	10	nsubj	_	_
+2-3	bağdakı	_	_	_	_	_	_	_	_
+2	bağda	baq	NOUN	_	_	5	nmod	_	_
+3	kı	-ki	ADP	_	_	2	case	_	_
+4	uşağ	uşaq	NOUN	_	_	5	nmod	_	_
+5	otağının	otaq	NOUN	_	_	6	nmod	_	_
+6	pəncərəsini	pəncərə	NOUN	_	_	10	obj	_	_
+7	tez	tez	ADV	_	_	9	compound:redup	_	SpaceAfter=No
+8	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	tez	tez	ADV	_	_	10	advmod	_	_
+10	təmizləmişdi	təmizlə	VERB	_	_	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	_
+12-13	aşpazxananınkını	_	_	_	_	_	_	_	_
+12	aşpazxananın	aşpazxana	NOUN	_	_	13	nmod	_	_
+13	kını	-ki	PRON	_	_	14	obj	_	_
+14	təmizləməmişdi	təmizlə	VERB	_	_	10	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	10	punct	_	_
+
+# sent_id = udtw23-az-2
+# text = Sənə bunu həmişə diyirəm, söbhlər yoldaşıynan telfunda danışanda mənim moridimdə danışma.
+# glossing = you-DAT this-ACC always say-PROG-1SG morning-3PL friend-POSS.2SG-COM phone-LOC	speak-when I-ABL speak.IMP-NEG
+# text_en = ‘I always tell you this, don’t talk about me on the phone with your friend in the morning.’
+# text_tr = Sana bubu hep söylüyorum, sabahları arkadaşınla telefonda konuşurken benden bahsetme.
+# text_kir = Мен сага муну дайыма айтам, күндө эртең менен досуң менен телефондо сүйлөшкөндө мен жөнүндө сөз кылба.
+# translit_kir = Men saga munu dajyma ajtam, kündö jerteŋ menen dosuŋ menen telefondo süjlöshköndö men zhönündö söz kylba.
+1	Sənə	sən	PRON	_	_	4	obl	_	_
+2	bunu	bu	PRON	_	_	4	obj	_	_
+3	həmişə	həmişə	ADV	_	_	4	advmod	_	_
+4	diyirəm	di	VERB	_	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	12	punct	_	_
+6	söbhlər	söbh	NOUN	_	_	9	obl	_	_
+7	yoldaşıynan	yoldaş	NOUN	_	_	9	obl	_	_
+8	telfunda	telfun	NOUN	_	_	9	obl	_	_
+9	danışanda	danış	VERB	_	_	12	advcl	_	_
+10	mənim	mən	PRON	_	_	11	nmod	_	_
+11	moridimdə	morid	NOUN	_	_	12	obl	_	_
+12	danışma	danış	VERB	_	_	4	ccomp	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = udtw23-az-3
+# text = Gecəni qalan qonax qapını çalmışdı, amma ev sahab sil-süpür elirdi və resturandan sifariş verən qəza hələ gələcəgidi.
+# glossing = night-ACC stay-PTCP guest door-ACC knock-PFV-PST.3SG, but house.owner clean-sweep make-PROG-PST.3SG and restaurant-ABL order give-PTCP food still come-NEG-FUT-PST.3SG
+# text_en = ‘The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.’
+# text_tr = Yatılı kalacak misafir kapıyı çalmıştı ama ev sahibi hala temizlik yapıyordu, restorandan sipariş ettiği yemekise daha gelecekti.
+# text_kir = Түнөп калчу конок эшикти такылдатыптыр, бирок үйдүн ээси дагы эле үйдү жыйнап жаткан, ал эми ал ресторандан буюртма берген тамак келмек болчу.
+# translit_kir = Tünöp kalchu konok jeshikti takyldatyptyr, birok üjdün jejesi dagy jele üjdü zhyjnap zhatkan, al jemi al restorandan buyurtma bergen tamak kelmek bolchu.
+1	Gecəni	Gecə	NOUN	_	_	2	obj	_	_
+2	qalan	qal	VERB	_	_	3	acl	_	_
+3	qonax	qonax	NOUN	_	_	5	nsubj	_	_
+4	qapını	qapı	NOUN	_	_	5	obj	_	_
+5	çalmışdı	çal	VERB	_	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	amma	amma	CCONJ	_	_	13	cc	_	_
+8	ev	ev	NOUN	_	_	9	nmod	_	_
+9	sahab	sahab	NOUN	_	_	13	nsubj	_	_
+10	sil	sil	VERB	_	_	13	compound:lvc	_	SpaceAfter=No
+11	-	-	PUNCT	_	_	10	punct	_	SpaceAfter=No
+12	süpür	süpür	VERB	_	_	10	fixed	_	_
+13	elirdi	elə	VERB	_	_	5	conj	_	_
+14	və	və	CCONJ	_	_	20	cc	_	_
+15	resturandan	restauran	NOUN	_	_	17	obl	_	_
+16	sifariş	sifariş	NOUN	_	_	17	obj	_	_
+17	verən	ver	VERB	_	_	18	nmod	_	_
+18	qəza	qəza	NOUN	_	_	20	nsubj	_	_
+19	hələ	hələ	ADV	_	_	20	advmod	_	_
+20	gələcəgidi	gəl	VERB	_	_	5	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = udtw23-az-4
+# text = Ayşə düktürdü(r).
+# glossing = Ayshe doctor-COP.3SG
+# text_en = Ayshe is a doctor.
+# text_tr = Ayşe bir doktor.
+# text_kir = Айша — доктур.
+# translit_kir = Ajsha — doktur.
+1	Ayşə	Ayşe	NOUN	_	_	2	nsubj	_	_
+2	düktürdü(r)	düktür	NOUN	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = udtw23-az-5
+# text = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
+# glossing = solve doing-DAT try do-PTCP-POSS.1PL problem this-COP.3SG that library-LOC five grain book-DAT even place be.NEG.CV.3SG
+# text_tr = Çözmeye çalıştığımız (sorun) kitaplıkta beş kitaplık yer bile olmaması.
+# text_kir = Биз чечүүгө аракет кылып жаткан көйгөй – китеп текчесинде беш китептик да орундун жоктугу.
+# translit_kir = Biz chechüügö araket kylyp zhatkan köjgöj – kitep tekchesinde besh kiteptik da orundun zhoktugu.
+1	Həll	həl	NOUN	_	_	2	compound:lvc	_	_
+2	eləməyə	elə	VERB	_	_	4	xcomp	_	_
+3	təlaş	təlaş	NOUN	_	_	4	compound:lvc	_	_
+4	elədigimiz	elə	VERB	_	_	5	acl	_	_
+5	məsələ	məsələ	NOUN	_	_	12	nsubj:outer	_	_
+6	kitabxanada	kitabxana	NOUN	_	_	12	obl	_	_
+7	beş	beş	NUM	_	_	9	nummod	_	_
+8	dənə	dənə	DET	_	_	7	clf	_	_
+9	kitaba	kitab	NOUN	_	_	12	obl	_	_
+10	da	da	ADV	_	_	9	advmod:emph	_	_
+11	yer	yer	NOUN	_	_	12	nsubj	_	_
+12	olmamasıdır	ol	VERB	_	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = udtw23-az-6
+# text = Böyük nənəsı  pərəstarıdı.
+# glossing = grand mother-POSS.3SG nurse-COP.PST.3SG
+# text_en = ‘His/her grandmother was a nurse.’
+# text_tr = Anneannesi hemşireydi.
+# text_kir = Анын таенеси мед айым эле.
+# translit_kir = Anyn tayenesi med ayim ele.
+1	Böyük	Böyük	ADJ	_	_	2	amod	_	_
+2	nənəsı	nənə	NOUN	_	_	3	nsubj	_	_
+3-4	pərəstarıdı	_	_	_	_	_	_	_	SpaceAfter=No
+3	pərəstar	pərəstar	NOUN	_	_	0	root	_	_
+4	ıdı	i	AUX	_	_	3	cop	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = udtw23-az-7
+# text = Pəs kitabxanadakılar harda iydi?
+# glossing = so library-LOC-KI-PL where-LOC	COP.PST.3SG
+# text_en = ‘So where were the [ones] on the bookshelf?’
+# text_tr = Peki kitaplıktakiler nerede idi?
+# text_kir = Макул, анда китеп текчесиндегилер кайда эле?
+# translit_kir = Makul, anda kitep tekchesindegiler kayda ele?
+1	Pəs	Pəs	INTJ	_	_	4	discourse	_	_
+2-3	kitabxanadakılar	_	_	_	_	_	_	_	_
+2	kitabxanada	kitabxana	NOUN	_	_	3	nmod	_	_
+3	kılar	-ki	PRON	_	_	4	nsubj	_	_
+4	harda	harda	DET	_	_	0	root	_	_
+5	iydi	i	AUX	_	_	4	cop	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = udtw23-az-8
+# text = Sudə üç saatdı(r) afisdə dəyil, Ayşə də evdə dəyilmiş.
+# glossing = Sude three	hour-COP.PRS.3SG office-LOC	not.be.PRS.3SG Ayshe also home-LOC not.be-PFV			
+# text_en = ‘Sude was not at the office for three hours, and Ayshe was not at home.’
+# text_tr = Sude üç saattir ofiste yokmuş, Ayşe de evde değilmiş.
+# text_kir = Суде үч саат бою кеңседе болгон жок, Айша да үйдө болгон эмес экен.
+# translit_kir = Sude uch saat boyu kensede bolgon jok, Aysha da uydo bolgon emes eken.
+1	Sudə	Sudə	PROPN	_	_	4	nsubj	_	_
+2	üç	üç	NUM	_	_	3	nummod	_	_
+3	saatdı(r)	saat	NOUN	_	_	4	advcl	_	_
+4	afisdə	afis	NOUN	_	_	0	root	_	_
+5	dəyil	dəyil	AUX	_	_	4	aux	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	Ayşə	Ayşə	PROPN	_	_	9	nsubj	_	_
+8	də	də	ADV	_	_	7	advmod:emph	_	_
+9	evdə	ev	NOUN	_	_	4	conj	_	_
+10	dəyilmiş	dəyil	AUX	_	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = udtw23-az-9
+# text = Bazarda mivə var amma yaxçı dəyil.
+# glossing = market-LOC	fruit EXIST.PRS.3SG	but	good not.be-PRS.3SG
+# text_en = ‘There is fruit in the market, but it’s not pretty.’
+# text_tr = Markette meyve var ama güzel değil.
+# text_kir = Дүкөндө жемиш бар, бирок жакшы эмес.
+# translit_kir = Dukondo jemish bar, birok jakshi emes.
+1	Bazarda	Bazar	NOUN	_	_	3	obl	_	_
+2	mivə	mivə	NOUN	_	_	3	nsubj	_	_
+3	var	var	ADJ	_	_	0	root	_	_
+4	amma	amma	CCONJ	_	_	5	cc	_	_
+5	yaxçı	yaxçı	ADJ	_	_	3	conj	_	_
+6	dəyil	dəyil	AUX	_	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = udtw23-az-10
+# text = Deniz düktür olacax, bilmiş ol!
+# glossing = Deniz doctor be-FUT.3SG know-PTCP  be.IMP.2SG Deniz doctor be-FUT.3SG know-PTCP be.IMP.2SG
+# text_en = ‘Deniz will be a doctor, (so that) you know!’
+# text_tr = Deniz doktor olacak, bilmiş ol!
+# text_kir = Дениз доктур болот, билип кой!
+# translit_kir = Deniz doktur bolot, bilip koy!
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	düktür	düktür	NOUN	_	_	3	obj	_	_
+3	olacax	ol	VERB	_	_	5	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	bilmiş	bil	VERB	_	_	0	root	_	_
+6	ol	ol	AUX	_	_	5	aux	_	SpaceAfter=No
+7	!	!	PUNCT	_	_	5	punct	_	_
+
+# sent_id = udtw23-az-11
+# text = Deniz yatmış iydi.
+# glossing = Deniz sleep-PTCP COP.PST.3SG
+# text_en = ‘Deniz was asleep.’
+# text_tr = Deniz uyumuş idi.
+# text_kir = Дениз уктап калган эле.
+# translit_kir = Deniz uktap kalgan ele.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	yatmış	yat	VERB	_	_	0	root	_	_
+3	iydi	i	AUX	_	_	2	cop	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = udtw23-az-12
+# text = Cələsə elam olanda o qədər təəccüb eləmişdi ki mənə elə mat-mat baxırdı.
+# glossing = meeting announce be-when that  much surprisemake-PFV-PST.3SG that I-DAT like.that surprisingly look-PROG-PST.3SG
+# text_en = ‘He/She must have been so surprised as the meeting was being announced that he/she kept looking at me.’
+# text_tr = Toplantı duyurulurken çok şaşırmış olacak ki bana bakıp durdu.
+# text_kir = Чогулуш боло тургандыгы айтылып жаткан учурда, ал ушунчалык таң калгандыктан окшойт, мени караган бойдон калды.
+# translit_kir = Chogulush bolo turgandigi aytilip jatkan uchurda, al ushunchalyk tan kalgandiktan okshoyt, meni karagan boydon kaldi.
+1	Cələsə	cələsə	NOUN	_	_	3	nsubj	_	_
+2	elam	elam	NOUN	_	_	3	compound:lvc	_	_
+3	olanda	ol	AUX	_	_	7	advcl	_	_
+4	o	o	PRON	_	_	7	obl	_	_
+5	qədər	qədər	ADP	_	_	4	case	_	_
+6	təəccüb	təəccüb	NOUN	_	_	7	compound:lvc	_	_
+7	eləmişdi	elə	VERB	_	_	0	root	_	_
+8	ki	ki	SCONJ	_	_	14	mark	_	_
+9	mənə	mən	NOUN	_	_	14	obl	_	_
+10	elə	elə	ADV	_	_	14	advmod	_	_
+11	mat	mat	ADV	_	_	14	advmod	_	SpaceAfter=No
+12	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	mat	mat	ADV	_	_	11	compound:redup	_	_
+14	baxırdı	bax	VERB	_	_	7	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = udtw23-az-13
+# text = Jakətim evdə iymiş?
+# glossing = jacket-POSS.1SG home-LOC be.PST.3SG
+# text_en = ‘Was my cardigan at home?’
+# text_tr = Hırkam evde miymiş.
+# text_kir = Кардиганым үйдө бекен?
+# text_kir = Кардиганым үйдө болгон бекен?
+# translit_kir = Kardiganim uydo bolgon beken?
+1	Jakətim	jackət	NOUN	_	_	2	nsubj	_	_
+2	evdə	öy	NOUN	_	_	0	root	_	_
+3	iymiş	i	AUX	_	_	2	cop	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = udtw23-az-14
+# text = Mərasim büyün bərgüzar olacax?
+# glossing = event today hold be.AUX-FUT.3SG
+# text_en = ‘Is the event to be held today?’
+# text_tr = Bugün mü yapılacak etkinlik?
+# text_kir = Иш-чара бүгүн өткөрүлөбү?
+# translit_kir = Ish-chara bugun otkorolobu?
+1	Mərasim	Mərasim	NOUN	_	_	4	nsubj	_	_
+2	büyün	büyün	ADV	_	_	4	advmod	_	_
+3	bərgüzar	bərgüzar	VERB	_	_	4	compound:lvc	_	_
+4	olacax	ol	VERB	_	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = udtw23-az-15
+# text = Nəticələr gəlmış; belə dəyil?
+# glossing = result-PL come-PFV.3SG like.this not.be.PRS.3SG
+# text_en = ‘The results have been announced, haven’t they?’
+# text_tr = Sonuçlar açıklanmış, değil mi?
+# text_kir = Натыйжалар жарыяланыптыр да, ээ?
+# translit_kir = Natyijalar jariyalanyptyr da, ee?
+1	Nəticələr	Nəticə	NOUN	_	_	2	nsubj	_	_
+2	gəlmış	gəl	VERB	_	_	0	root	_	SpaceAfter=No
+3	;	;	PUNCT	_	_	2	punct	_	_
+4	belə	belə	PRON	_	_	2	parataxis	_	_
+5	dəyil	dəyil	AUX	_	_	4	aux	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = udtw23-az-16
+# text = Ayşə bu kitabı oxumamış dəyil.
+# glossing = Ayshe this book-ACC read-NEG-PTCP not.be.PRS.3SG
+# text_en = 'This is not the case that Ayshe has not read the book.'
+# text_tr = Ayşe bu kitabı oku(ma)mış değil.
+# text_kir = Айша бул китепти окуган эмес.
+# translit_kir = Aysha bul kitepti okugan emes.
+1	Ayşə	Ayşə	PROPN	_	_	4	nsubj	_	_
+2	bu	bu	DET	_	_	3	det	_	_
+3	kitabı	kitab	NOUN	_	_	4	obj	_	_
+4	oxumamış	oxu	VERB	_	_	0	root	_	_
+5	dəyil	dəyil	AUX	_	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = udtw23-az-17
+# text = Kollən, oxumağı yox, amma nəqqaşi çekmağı söyür.
+# glossing = in.general read-ACC no but paint draw-ACC like-PRS.3SG
+# text_en = 'In general they like to paint, not to read.'
+# text_tr = Genel olarak okumayı değil, resim yapmayı seviyor.
+# text_kir = Негизинен ал окуганды эмес, сүрөт тартканды жакшы көрөт.
+# translit_kir = Negizinen al okugandi emes, surot tartkandi jakshi korot.
+# note: changed 'yox' ADV for now for validation, we need to settle this for all Turkic languages.
+1	Kollən	Kollən	ADV	_	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	oxumağı	oxu	VERB	_	_	9	xcomp	_	_
+4	yox	yox	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	amma	amma	CCONJ	_	_	8	cc	_	_
+7	nəqqaşi	nəqqaşi	NOUN	_	_	8	compound:lvc	_	_
+8	çekmağı	çek	VERB	_	_	3	conj	_	_
+9	söyür	söy	VERB	_	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = udtw23-az-18
+# text = Oxuduxlarını yox, oxuyacaxlarını annadır.
+# glossing = read-PTCP.PST-PL-POSS.3SG-ACC not read-PTCP.FUT-PL-POSS.3SG-ACC explain-CAUS-PRS.3SG
+# text_en = ‘He/She tells what she will read, not what he/she has read.’
+# text_tr = Okuduklarını değil, okuyacaklarını anlatıyor.
+# text_kir = Ал окугандары эмес, окуй тургандары тууралуу айтып жатат.
+# translit_kir = Al okugandari emes, okyi turgandari tuuraluu aytip jatat.
+1	Oxuduxlarını	oxu	VERB	_	_	2	obj	_	_
+2	yox	yox	ADV	_	_	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	oxuyacaxlarını	oxu	VERB	_	_	5	obj	_	_
+5	annadır	anna	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = udtw23-az-19
+# text = Bunun abisi çoxtər yaxçıdı. mənə abini verərsən?
+# glossing = this-GEN blue-POSS.3SG very-COMP good-COP I-DAT blue-ACC give-AOR-2SG
+# text_en = 'The blue [one] of these is prettier, could you give me the blue one?'
+# text_tr = Bunun mavisi daha güzel, bana maviyi verir misin?
+# text_kir = Мунун көгү жакшынакайыраак экен, мага көгүн берип коёсуңбу?
+# translit_kir = Munun kogu jakshinakayiraak eken, maga kogun berip koyosunbu?
+1	Bunun	bu	PRON	_	_	2	nmod:poss	_	_
+2	abisi	abi	ADJ	_	_	4	nsubj	_	_
+3	çoxtər	çox	ADV	_	_	4	advmod	_	_
+4	yaxçıdı	yaxçı	ADJ	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	8	punct	_	_
+6	mənə	mən	PRON	_	_	8	obl	_	_
+7	abini	abi	ADJ	_	_	8	obj	_	_
+8	verərsən	ver	VERB	_	_	4	parataxis	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	4	punct	_	_
+
+# sent_id = udtw23-az-20
+# text = Cəvanlara əlçatmaz hədəflərini tərk etdirməliyik.
+# glossing = young-PL-DAT reach-ABIL-NEG-PTCP goal-PL-POSS.3PL-ACC abandon do-CAUS-NEC-1PL
+# text_en = 'We must make the young abandon unattainable goals.'
+# text_tr = Gençlere erişilebilir olmayan hedefleri terk ettirmeliyiz.
+# text_kir = Жаштарды ишке ашырылбас максаттарынан баш тарттырышыбыз керек.
+# translit_kir = Jashtardi ishke ashirilbas maksattarinan bash tarttirishibiz kerek.
+1	Cəvanlara	cəvan	ADJ	_	_	5	obl	_	_
+2	əlçatmaz	əlçatmaz	ADJ	_	_	3	acl	_	_
+3	hədəflərini	hədəf	NOUN	_	_	5	obj	_	_
+4	tərk	tərk	VERB	_	_	5	compound:lvc	_	_
+5	etdirməliyik	et	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = udtw23-az-21
+# text = Moəllim kitabı alıp, mədrəsəyə getdi.
+# glossing = teacher book-ACC take-3SG. school-DAT go-3SG.PAST
+# text_en = 'The teacher took the book and left for school.'
+# text_tr = Öğretmen kitabı alıp okula gitti.
+# text_kir = Мугалим китепти алып мектепке кетти.
+# translit_kir = Mugalim kitepti alyp mektepke ketti.
+# note: changed 'conj' to advcl here and below - needs further discussion.
+1	Moəllim	moəllim	NOUN	_	_	6	nsubj	_	_
+2	kitabı	kitab	NOUN	_	_	6	obj	_	_
+3	alıp	al	VERB	_	_	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	mədrəsəyə	mədrəsəyə	NOUN	_	_	6	obl	_	_
+6	getdi	get	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = udtw23-az-22
+# text = Moəllim kitabı alıp, mədrəsəyə apardı.
+# glossing = teacher book-ACC take-3SG. school-DAT take-3SG.PAST
+#  text_en = 'The teacher took the book to school.'
+# text_tr = Öğretmen kitabı okula götürdü.
+# text_kir = Мугалим китепти мектепке  алып кетти.
+# translit_kir = Mugalim kitepti  mektepke alyp ketti.
+1	Moəllim	moəllim	NOUN	_	_	6	nsubj	_	_
+2	kitabı	kitab	NOUN	_	_	6	obj	_	_
+3	alıp	al	VERB	_	_	6	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	mədrəsəyə	mədrəsə	NOUN	_	_	6	obl	_	_
+6	apardı	apar	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AZ-1
+# text = Deniz yoxladı.
+# text_en = Deniz slept.
+# text_tr = Deniz uyudu.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	yoxladı	yuxla	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-2
+# text =  Deniz kitab oxur.
+# text_en = Deniz is reading a book.
+# text_tr = Deniz kitap okuyor.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	kitab	kitab	NOUN	_	_	3	obj	_	_
+3	oxur	oxu	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-3
+# text = Deniz axşamlar evdə kitab oxur.
+# text_en = Deniz reads books in the evenings.
+# text_tr = Deniz akşamları evde kitap okur.
+1	Deniz	Deniz	PROPN	_	_	5	nsubj	_	_
+2	axşamlar	axşam	NOUN	_	_	5	obl	_	_
+3	evdə	ev	NOUN	_	_	5	obl	_	_
+4	kitab	kitab	NOUN	_	_	5	obj	_	_
+5	oxur	oxu	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-4
+# text = Deniz qardaşına kitabı verdi.
+# text_en =  Deniz gave the book to his/her sister/brother.
+# text_tr =  Deniz kardeşine kitabi verdi.
+1	Deniz	Deniz	PROPN	_	_	4	nsubj	_	_
+2	qardaşına	qardaş	NOUN	_	_	4	obl	_	_
+3	kitabı	kitab	NOUN	_	_	4	obj	_	_
+4	verdi	ver	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-5
+# text = Deniz kitabı evə apardı.
+# text_en = Deniz took the book home.
+# text_tr = Deniz kitabi eve götürdü.
+1	Deniz	Deniz	PROPN	_	_	4	nsubj	_	_
+2	kitabı	kitab	NOUN	_	_	4	obj	_	_
+3	evə	ev	NOUN	_	_	4	obl	_	_
+4	apardı	apar	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-6
+# text = Moəllim uşaqlara dərs verdi.
+# text_en = The teacher lectured the children.
+# text_tr = Öğretmen çocuklara ders verdi.
+1	Moəllim	Moəllim	NOUN	_	_	4	nsubj	_	_
+2	uşaqlara	uşaq	NOUN	_	_	4	obl	_	_
+3	dərs	dərs	NOUN	_	_	4	compound	_	_
+4	verdi	ver	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-7
+# text = Deniz yoldaşına bir dənə kitab aldı.
+# text_en = Deniz bought a book for his/her friend.
+# text_tr = Deniz arkadaşına bir kitap aldi.
+1	Deniz	Deniz	PROPN	_	_	6	nsubj	_	_
+2	yoldaşına	yoldaş	NOUN	_	_	6	obl	_	_
+3	bir	bir	NUM	_	_	5	nummod	_	_
+4	dənə	dənə	DET	_	_	3	clf	_	_
+5	kitab	kitab	NOUN	_	_	6	obj	_	_
+6	aldı	al	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AZ-8
+# text = Deniz qardaşıynan barışdı.
+# text_en = Deniz made peace with her sister/brother.
+# text_tr = Deniz kardeşiyle barıştı.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	qardaşıynan	qardaş	NOUN	_	_	3	obl	_	_
+3	barışdı	barış	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-9
+# text = Deniz yoldaşlarınnan şikayət elir.
+# text_en = Deniz is complaining about his/her friend.
+# text_tr = Deniz arkadaşlarindan yakiniyor.
+1	Deniz	_	PROPN	_	_	4	nsubj	_	_
+2	yoldaşlarınnan	_	NOUN	_	_	4	obl	_	_
+3	şikayət	_	NOUN	_	_	4	compound:lvc	_	_
+4	elir	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-10
+# text = Deniz tezdən yatdı.
+# text_en = Deniz slept early.
+# text_tr = Deniz erkenden uyudu.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	tezdən	tez	ADV	_	_	3	obl	_	_
+3	yatdı	yat	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-11
+# text = Deniz yoldaşının pişirdigi qəzadan ikki boşqab yedi.
+# text_en = Deniz ate two plates from (of) the meal his/her friend cooked.
+# text_tr = Deniz arkadaşınin yaptiği yemekten iki tabak yedi.
+1	Deniz	Deniz	PROPN	_	_	7	nsubj	_	_
+2	yoldaşının	yoldaş	NOUN	_	_	3	nsubj	_	_
+3	pişirdigi	piş	VERB	_	_	4	advcl	_	_
+4	qəzadan	qəza	NOUN	_	_	7	obl	_	_
+5	ikki	ikki	NUM	_	_	6	nummod	_	_
+6	boşqab	boşqab	NOUN	_	_	7	obj	_	_
+7	yedi	ye	VERB	_	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = AZ-12
+# text = Deniz üç saat yuxladı.
+# text_en = Deniz slept for three hours.
+# text_tr = Deniz üç saat uyudu.
+1	Deniz	Deniz	PROPN	_	_	4	nsubj	_	_
+2	üç	üç	NUM	_	_	3	nummod	_	_
+3	saat	saat	NOUN	_	_	4	obl	_	_
+4	yuxladı	yuxla	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-13
+# text = Deniz çok yeyindir.
+# text_en = Deniz is very fast.
+# text_tr = Deniz çok hizli.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	çok	çok	ADV	_	_	3	advmod	_	_
+3	yeyindir	yeyin	ADJ	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-14
+# text = Deniz mohəssildir.
+# text_en = Deniz is a student.
+# text_tr = Deniz öğrenci.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	mohəssildir	mohəssil	NOUN	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-16
+# text = Deniz düktür olacax.
+# text_en = Deniz will become a doctor.
+# text_tr = Deniz doktor olacak.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	düktür	düktür	NOUN	_	_	3	obj	_	_
+3	olacax	ol	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-17
+# text = Deniz evdədir.
+# text_en = Deniz is at home.
+# text_tr = Deniz evde.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdədir	ev	NOUN	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-18
+# text = Deniz evdəyidi.
+# text_en = Deniz was at home.
+# text_tr = Deniz evdeydi.
+1	Deniz	ev	PROPN	_	_	2	nsubj	_	_
+2	evdəyidi	ev	NOUN	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-19
+# text = Deniz evdə iydi.
+# text_en = Deniz was at home.
+# text_tr = Deniz evde idi.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdə	ev	NOUN	_	_	0	root	_	_
+3	iydi	i	AUX	_	_	2	cop	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-20
+# text = Hediye Deniz içindi.
+# text_en = The present was for Deniz.
+# text_tr = Hediye Deniz içindi.
+1	Hediye	hediye	NOUN	_	_	2	nsubj	_	_
+2	Deniz	Deniz	NOUN	_	_	0	root	_	_
+3	içindi	için	ADP	_	_	2	case	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-21
+# text = Deniz yatmışdı.
+# text_en = Deniz hat slept.
+# text_tr = Deniz uyumuştu.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	yatmışdı	yat	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-22
+# text = Deniz yatmış iydı.
+# text_en = Deniz hat slept.
+# text_tr = Deniz uyumuş idi.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	yatmış	yat	VERB	_	_	0	root	_	_
+3	iydı	i	AUX	_	_	2	cop	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-23
+# text = Deniz yatmış olacax.
+# text_en = Deniz will have asleep.
+# text_tr = Deniz uyumuş olacak.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	yatmış	yat	VERB	_	_	0	root	_	_
+3	olacax	ol	AUX	_	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-24
+# text = Anasının arzusu Denizin yaxçı bir mədrəsəde ders oxumasıydı.
+# text_en = His/her mother's dream was for Deniz to study in a good school.
+# text_tr = Annesinin hayali Deniz'in iyi bir okulda okumasiydi.
+1	Anasının	ana	NOUN	_	_	2	nmod	_	_
+2	arzusu	arzu	NOUN	_	_	8	nsubj	_	_
+3	Denizin	Deniz	PROPN	_	_	8	ccomp	_	_
+4	yaxçı	yaxçı	ADJ	_	_	6	amod	_	_
+5	bir	bir	DET	_	_	6	det	_	_
+6	mədrəsəde	mədrəsə	NOUN	_	_	8	obl	_	_
+7	ders	dərs	NOUN	_	_	8	compound	_	_
+8	oxumasıydı	oxu	VERB	_	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = AZ-25
+# text = Denizin yaxçı bir mədrəsədə dərs oxumaması anasını nigəran elirdi.
+# text_en = The fact that Deniz did not study in a good school worried her mother.
+# text_tr = Deniz'in iyi bir okulda okumamasi annesini kaygilandiriyordu.
+1	Denizin	Deniz	PROPN	_	_	6	nmod	_	_
+2	yaxçı	yaxçı	ADJ	_	_	4	amod	_	_
+3	bir	bir	DET	_	_	4	det	_	_
+4	mədrəsədə	mədrəsə	NOUN	_	_	6	obl	_	_
+5	dərs	dərs	NOUN	_	_	6	compound	_	_
+6	oxumaması	oxu	VERB	_	_	9	ccomp	_	_
+7	anasını	ana	NOUN	_	_	9	obj	_	_
+8	nigəran	nigəran	ADJ	_	_	9	compound:lvc	_	_
+9	elirdi	el	VERB	_	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+# sent_id = AZ-26
+# text = Mizin üstündə çox kitab var, kitabxanda yox.
+# text_en = There are many books on the table, none in the bookshelf.
+# text_tr = Masada çok kitap var, kitaplikta yok.
+1	Mizin	miz	NOUN	_	_	2	nmod	_	_
+2	üstündə	üst	NOUN	_	_	5	obl	_	_
+3	çox	çox	ADJ	_	_	4	amod	_	_
+4	kitab	kitab	NOUN	_	_	5	nsubj	_	_
+5	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	kitabxanda	kitabxana	NOUN	_	_	8	obl	_	_
+8	yox	yox	ADJ	_	_	5	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = AZ-27
+# text = Denizin heç kitabı yox.
+# text_en = Deniz does not have any books.
+# text_tr = Deniz'in hiç kitabi yok.
+1	Denizin	Deniz	PROPN	_	_	4	nsubj	_	_
+2	heç	heç	DET	_	_	3	det	_	_
+3	kitabı	kitab	NOUN	_	_	4	obj	_	_
+4	yox	yox	ADJ	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-28
+# text =  Deniz evdə dəyildi.
+# text_en = Deniz was not at home.
+# text_tr = Deniz evde değildi.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdə	ev	NOUN	_	_	0	root	_	_
+3	dəyildi	dəyil	AUX	_	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-29
+# text = Deniz vəxtikən yatmır.
+# text_en = Deniz does not sleep on time.
+# text_tr = Deniz zamaninda uyumuyor.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	vəxtikən	vəxt	NOUN	_	_	3	obl	_	_
+3	yatmır	yat	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-31
+# text = Deniz vəxtikən yatmıya bilir.
+# text_en = Deniz may not be able to sleep on time.
+# text_tr = Deniz zamaninda uyuyamayabilir.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	vəxtikən	vəxt	NOUN	_	_	3	obl	_	_
+3	yatmıya	yat	VERB	_	_	0	root	_	_
+4	bilir	bil	AUX	_	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-32
+# text = Deniz anasın görmədi.
+# text_en = (It turned out that) Deniz did not see her/his mother.
+# text_tr = Deniz annesini görmemiş oldu.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	anasın	ana	NOUN	_	_	3	obj	_	_
+3	görmədi	gör	VERB	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-34
+# text = Deniz anasın görməmiş olmadı.
+# text_en = Deniz annesini görmemiş olmadi.
+# text_tr = (It turned out that) Deniz did not not-see her/his mother.
+1	Deniz	Deniz	PROPN	_	_	2	nmod	_	_
+2	anasın	ana	NOUN	_	_	3	obj	_	_
+3	görməmiş	gör	VERB	_	_	0	root	_	_
+4	olmadı	ol	AUX	_	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-35
+# text = Oxuduxlarını düşünmürü.
+# text_en = He/She does not understand things he/she reads.
+# text_tr = Okuduklarini anlamiyir.
+1	Oxuduxlarını	oxu	VERB	_	_	2	obj	_	_
+2	düşünmürü	düşün	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-39
+# text = Deniz otaqda dəyildi.
+# text_en = Deniz was not in the room.
+# text_tr = Deniz odada değildi.
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	otaqda	otaq	NOUN	_	_	0	root	_	_
+3	dəyildi	dəyil	AUX	_	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-40
+# text = Deniz otaqda yoxdu(r).
+# text_en = Deniz was not in the room.
+# text_tr = Deniz odada yoktu.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	otaqda	otaq	NOUN	_	_	3	obl	_	_
+3	yoxdu(r)	yox	ADJ	_	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-41
+# text = Deniz kitab oxumaq istəyir.
+# text_en = Deniz wants to read books.
+# text_tr = Deniz kitap okumak isitiyor.
+1	Deniz	Deniz	PROPN	_	_	4	nsubj	_	_
+2	kitab	kitab	NOUN	_	_	3	obj	_	_
+3	oxumaq	oxu	VERB	_	_	4	xcomp	_	_
+4	istəyir	ist	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-48
+# text = Deniz tətil olduğunu yadınnan cıxardıp, mədrəsəyə getmişdi.
+# text_en = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
+# text_tr = Deniz tatil olduğunu unutup okula gitmiş.
+1	Deniz	Deniz	PROPN	_	_	5	nsubj	_	_
+2	tətil	tətil	NOUN	_	_	3	compound	_	_
+3	olduğunu	ol	VERB	_	_	4	advcl	_	_
+4	yadınnan	yad	NOUN	_	_	5	compound	_	_
+5	cıxardıp	çıx	VERB	_	_	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	mədrəsəyə	mədrəsə	NOUN	_	_	8	obl	_	_
+8	getmişdi	get	VERB	_	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-50
+# text = Deniz gec yatsa mədrəsəyə gecikip.
+# text_en = If Deniz sleeps late, he/she would be late.
+# text_tr = Deniz geç uyursa okula geç kalip.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	gec	gec	ADV	_	_	3	advmod	_	_
+3	yatsa	yat	VERB	_	_	5	advcl	_	_
+4	mədrəsəyə	mədrəsə	NOUN	_	_	5	obl	_	_
+5	gecikip	gecik	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-51
+# text = Deniz gec yatsa mədrəsəyə gec qalacax.
+# text_en = If Deniz sleeps late, he/she will be late.
+# text_tr = Deniz geç uyursa okula geç kalacak.
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	gec	gec	ADV	_	_	3	advmod	_	_
+3	yatsa	yat	VERB	_	_	6	advcl	_	_
+4	mədrəsəyə	mədrəsə	NOUN	_	_	6	obl	_	_
+5	gec	gec	ADV	_	_	6	compound	_	_
+6	qalacax	qal	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AZ-53
+# text = Əyər uşaq biz evə getməmış yatsa, yetişincə gərək onu oyandırax.
+# text_en = If the child sleeps before we arrive home, we will need to wake him/her up.
+# text_tr = Eğer çocuk eve gitmeden uyursa vardiğimizda uyandirmamiz gerekecek.
+# note: changed the structure drastically - open to discussion.
+1	Əyər	əyər	SCONJ	_	_	6	mark	_	_
+2	uşaq	uşaq	NOUN	_	_	6	nsubj	_	_
+3	biz	biz	PRON	_	_	5	nsubj	_	_
+4	evə	ev	NOUN	_	_	5	obl	_	_
+5	getməmış	get	VERB	_	_	6	advcl	_	_
+6	yatsa	yat	VERB	_	_	9	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	yetişincə	yetiş	VERB	_	_	9	advcl	_	_
+9	gərək	gərək	VERB	_	_	0	root	_	_
+10	onu	o	PRON	_	_	11	obj	_	_
+11	oyandırax	gərək	VERB	_	_	9	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+# sent_id = AZ-55
+# text = Boşla.
+# text_en = Nevermind.
+# text_tr = Boşver.
+1	Boşla	boş	VERB	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = AZ-56
+# text = Fikr elirəm ki uşaq tez yatacax.
+# text_en = I think that the child will sleep early.
+# text_tr = Çocuğun erken uyuyacağini zannediyorum.
+1	Fikr	Fikr	NOUN	_	_	2	compound:lvc	_	_
+2	elirəm	elə	VERB	_	_	0	root	_	_
+3	ki	ki	SCONJ	_	_	6	mark	_	_
+4	uşaq	uşaq	NOUN	_	_	6	nsubj	_	_
+5	tez	tez	ADV	_	_	6	advmod	_	_
+6	yatacax	yat	VERB	_	_	2	ccomp	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AZ-57
+# text = Deniz qardaşınnan acığı gelir.
+# text_en = Deniz hates his/her brother/sister.
+# text_tr = Deniz kardeşinden nefret ediyor.
+1	Deniz	Deniz	PROPN	_	_	4	nsubj	_	_
+2	qardaşınnan	qardaş	NOUN	_	_	4	obl	_	_
+3	acığı	acıq	NOUN	_	_	4	compound	_	_
+4	gelir	gəl	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-59
+# text = Xəstəxana xalqın xidmətinə verildi.
+# text_en = The hospital was made available to the public.
+# text_tr = Hastane halkin hizmetine sunuludu.
+1	Xəstəxana	xəstəxana	NOUN	_	_	4	nsubj	_	_
+2	xalqın	xalq	NOUN	_	_	3	nmod	_	_
+3	xidmətinə	xidmət	NOUN	_	_	4	obl	_	_
+4	verildi	ver	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-60
+# issue = MWE / segmentation
+# text_en = The child in the big house is reading (a) book.
+# text_tr = Büyük evdeki çocuk kitap okuyor.
+# text = Böyük evdəki uşaq kitab oxur.
+1	Böyük	böyük	ADJ	_	_	2	amod	_	_
+2-3	evdəki	_	_	_	_	_	_	_	_
+2	evdə	ev	NOUN	_	_	4	nmod	_	_
+3	ki	ki	ADP	_	_	2	case	_	_
+4	uşaq	uşaq	NOUN	_	_	6	nsubj	_	_
+5	kitab	kitab	NOUN	_	_	6	obj	_	_
+6	oxur	ox	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AZ-63
+# text =  Soğanları qərələnə çan qızardın.
+# text_en = Fry the onions until they become dark ping.
+# text_tr = Soğanlari koyu pembeleşinceye kadar kavurun.
+1	Soğanları	soğan	NOUN	_	_	4	obj	_	_
+2	qərələnə	qərələn	VERB	_	_	4	advcl	_	_
+3	çan	çan	ADP	_	_	2	case	_	_
+4	qızardın	qızar	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-64
+# text =  Evin qabağında üç maşınlıq park yeri var.
+# text_en = There is a three-car parking place in front of the house.
+# text_tr = Evin önünde üç arabalik park yeri var.
+1	Evin	ev	NOUN	_	_	2	nmod	_	_
+2	qabağında	qabaq	NOUN	_	_	7	obl	_	_
+3	üç	üç	NUM	_	_	4	nummod	_	_
+4	maşınlıq	maşınlıq	ADJ	_	_	6	nmod	_	_
+5	park	park	NOUN	_	_	6	nmod	_	_
+6	yeri	yer	NOUN	_	_	7	nsubj	_	_
+7	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = AZ-65
+# text = Muqəddəs kitabı olmuyan dinlər də var.
+# text_en = There are religions without holly books.
+# text_tr = Kutsal kitapsiz dinler de var.
+1	Muqəddəs	muqəddəs	ADJ	_	_	2	amod	_	_
+2	kitabı	kitab	NOUN	_	_	3	obj	_	_
+3	olmuyan	ol	VERB	_	_	4	acl	_	_
+4	dinlər	din	NOUN	_	_	6	nsubj	_	_
+5	də	də	ADV	_	_	4	advmod:emph	_	_
+6	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = AZ-66
+# text = Kiçik pəncərəli evlərdə kifayət qədər işıq yoxdur.
+# text_en = There is not enough light in the house with small windows.
+# text_tr = Küçük pencereli evde yeterince işik yok.
+1	Kiçik	kiçik	ADJ	_	_	2	amod	_	_
+2	pəncərəli	pəncərə	NOUN	_	_	3	nmod	_	_
+3	evlərdə	ev	NOUN	_	_	7	obl	_	_
+4	kifayət	kifayət	ADJ	_	_	6	amod	_	_
+5	qədər	qədər	ADP	_	_	4	case	_	_
+6	işıq	işıq	NOUN	_	_	7	nsubj	_	_
+7	yoxdur	yox	VERB	_	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = AZ-67
+# text = Deniz evə gəldi?
+# text_en = Did Deniz come home ?
+# text_tr = Deniz eve geldi mi ?
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	evə	ev	NOUN	_	_	3	obl	_	_
+3	gəldi	gəl	VERB	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-68
+# text = Deniz evə gəlmişdi?
+# text_en = Had Deniz come home?
+# text_tr = Deniz eve gelmiş miydi?
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	evə	ev	NOUN	_	_	3	obl	_	_
+3	gəlmişdi	gəl	VERB	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-69
+# text = Deniz evdə?
+# text_en = Is Deniz at home?
+# text_tr = Deniz evede mi?
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdə	ev	NOUN	_	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-70
+# text = Deniz evdədir?
+# text_en = Is Deniz at home?
+# text_tr = Deniz evede midir?
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdədir	ev	NOUN	_	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-71
+# issue = Question particle
+# text_en = Was Deniz at home? (same as above)
+# text_tr = Deniz evede miydi?
+# text = Deniz evdə iydi?
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdə	ev	NOUN	_	_	0	root	_	_
+3	iydi	i	AUX	_	_	2	cop	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-72
+# issue = Question particle
+# text_en = Was Deniz not at home ? (with negation)
+# text_tr = Deniz evede değil miydi?
+# text = Deniz evdə dəyildi?
+1	Deniz	Deniz	PROPN	_	_	2	nsubj	_	_
+2	evdə	ev	NOUN	_	_	0	root	_	_
+3	dəyildi	dəyil	AUX	_	_	2	aux	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-73
+# text = Deniz evdə yoxdu(r)?
+# text_en = Is Deniz not at home?
+# text_tr = Deniz evede yok mu?
+1	Deniz	Deniz	PROPN	_	_	3	nsubj	_	_
+2	evdə	ev	NOUN	_	_	3	obl	_	_
+3	yoxdu(r)	yox	ADJ	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-75
+# text = Evdə çörək var?
+# text_en = Is there (any) bread at home?
+# text_tr = Evede mi ekmek var?
+1	Evdə	ev	NOUN	_	_	3	obl	_	_
+2	çörək	çörək	NOUN	_	_	3	nsubj	_	_
+3	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-76
+# text = Evdə çörək var?
+# text_en = Is there (any) bread at home?
+# text_tr = Evede ekmek mi var?
+1	Evdə	ev	NOUN	_	_	3	obl	_	_
+2	çörək	çörək	NOUN	_	_	3	nsubj	_	_
+3	var	var	ADJ	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-77
+# text = Oxuduğuzu düsünürdüz?
+# text_en = Were you understanding what you read?
+# text_tr = Okuduğunuzu anliyor muydunuz?
+1	Oxuduğuzu	oxu	VERB	_	_	2	xcomp	_	_
+2	düsünürdüz	düşün	VERB	_	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-78
+# text = Söbh Deniz kitabı Ayhana verdi?
+# text_en = Did Deniz give the book to Ayhan in the morning?
+# text_tr = Sabah Deniz kitabi Ayhan'a verdi mi?
+1	Söbh	söbh	NOUN	_	_	5	obl	_	_
+2	Deniz	Deniz	PROPN	_	_	5	nsubj	_	_
+3	kitabı	kitab	NOUN	_	_	5	obj	_	_
+4	Ayhana	Ayhan	PROPN	_	_	5	obl	_	_
+5	verdi	ver	VERB	_	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-83
+# text = Mənə abisini verərsən?
+# text_en = Can you give me the blue one?
+# text_tr = Bana maviyi verir misin?
+1	Mənə	mən	PRON	_	_	3	obl	_	_
+2	abisini	abi	NOUN	_	_	3	obj	_	_
+3	verərsən	ver	VERB	_	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	3	punct	_	_
+
+# sent_id = AZ-84
+# text = Bunun abisi daha gözəldir.
+# text_en = The blue (version) of this is nicer.
+# text_tr = Bunun mavisi daha güzel.
+1	Bunun	bu	PRON	_	_	2	nmod	_	_
+2	abisi	abi	NOUN	_	_	4	nsubj	_	_
+3	daha	daha	ADV	_	_	4	advmod	_	_
+4	gözəldir	gözəl	ADJ	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-85
+# text = Mənim maşınım Denizinkinin abisi.
+# text_en = My car is the blue (version) of Deniz'es.
+# text_tr = Benim arabam Deniz'inkinin mavisi.
+1	Mənim	mən	PRON	_	_	2	nmod	_	_
+2	maşınım	maşın	NOUN	_	_	5	nsubj	_	_
+3-4	Denizinkinin	_	_	_	_	_	_	_	_
+3	Denizin	Deniz	PROPN	_	_	4	nmod	_	_
+4	kinin	-ki	PRON	_	_	5	nmod	_	_
+5	abisi	abi	NOUN	_	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+# sent_id = AZ-86
+# text = Kitab oxunur.
+# text_en = The book is being read.
+# text_tr = Kitap okunuyor.
+1	Kitab	kitab	NOUN	_	_	2	nsubj	_	_
+2	oxunur	oxu	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-87
+# text = Kitab tamam mədrəsələrdə oxutdurulacax.
+# text_en = The book will be made to be made to be read in all schools.
+# text_tr = Kitap bütün okullarda okutturulacak.
+1	Kitab	kitab	NOUN	_	_	4	nsubj	_	_
+2	tamam	tamam	DET	_	_	3	det	_	_
+3	mədrəsələrdə	mədrəsə	NOUN	_	_	4	obl	_	_
+4	oxutdurulacax	oxu	VERB	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = AZ-89
+# issue = Plural subject, but a singular verb
+# text_en = They are gone. / They left.
+# text_tr = Onlar gitti.
+# text = Olar getdi.
+1	Olar	o	PRON	_	_	2	nsubj	_	_
+2	getdi	get	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = AZ-90
+# issue = Plural subject, but a singular verb
+# text_en = He/She left./ He/She is gone.
+# text_tr = O gitti.
+# text = O getdi.
+1	O	o	PRON	_	_	2	nsubj	_	_
+2	getdi	get	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+

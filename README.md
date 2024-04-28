@@ -1,7 +1,9 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+This is a small treebank of grammatical examples for Azerbaijani. The
+treebank tries to be neutral about the particular variety (North or
+South Azerbaijani, hence uses the ISO code for the macrolanguage
+(`az`).
 
 # Introduction
 
@@ -36,6 +38,6 @@ Features: manual native
 Relations: manual native
 Contributors: Eslami, Soudabeh; Çöltekin, Çağrı
 Contributing: here
-Contact: cagri.coeltekin@uni-tuebingen.de
+Contact: soudabeh.eslami@student.uni-tuebingen.de, cagri.coeltekin@uni-tuebingen.de
 ===============================================================================
 </pre>
