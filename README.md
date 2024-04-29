@@ -14,7 +14,7 @@ Azerbaijani is written currently in three different alphabets: the Persian alpha
 
 # Acknowledgments
 
-We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) for their weekly informative meetings and discussions and for all the support she has received.
+We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) for their weekly informative meetings and discussions and for all the support we have received.
 
 
 ## References
