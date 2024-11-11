@@ -5,47 +5,46 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>108</sentences><tokens>649</tokens><words>656</words><fused>7</fused></total>
+    <total><sentences>109</sentences><tokens>655</tokens><words>663</words><fused>8</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>108</sentences><tokens>649</tokens><words>656</words><fused>7</fused></test>
+    <test><sentences>109</sentences><tokens>655</tokens><words>663</words><fused>8</fused></test>
   </size>
-  <lemmas unique="228" /><!-- ., Deniz, ev, ?, ,, kitab, oxu, ol, yat, o, dəyil, elə, i, mədrəsə, ver -->
-  <forms unique="350" /><!-- ., Deniz, ?, ,, evdə, kitab, kitabı, o, var, amma, bir, mədrəsəyə, Denizin, dəyil, evə -->
-  <fusions unique="7" /><!-- Denizinkinin, aşpazxananınkını, bağdakı, evdəki, kitabxanadakılar, pərəstarıdı, sәninkindәn -->
+  <lemmas unique="230" /><!-- ., Deniz, ev, ,, ?, kitab, oxu, yat, ol, o, dəyil, elə, i, mədrəsə, ver -->
+  <forms unique="352" /><!-- ., Deniz, ,, ?, evdə, kitab, kitabı, o, amma, bir, mədrəsəyə, var, Denizin, böyük, dəyil -->
+  <fusions unique="7" /><!-- evdəki, Denizinkinin, aşpazxananınkını, bağdakı, kitabxanadakılar, pərəstarıdı, sәninkindәn -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
-    <tag name="ADJ">32</tag><!-- var, yaxçı, yox, böyük, abi, kiçik, bətər, cəvan, gözəl, kifayət -->
-    <tag name="ADP">8</tag><!-- için, qədər, -ki, görә, ki, çan -->
+    <tag name="ADJ">32</tag><!-- var, böyük, yaxçı, yox, abi, kiçik, bətər, cəvan, gözəl, kifayət -->
+    <tag name="ADP">9</tag><!-- için, ki, qədər, -ki, görә, çan -->
     <tag name="ADV">27</tag><!-- tez, də, gec, mat, yox, çox, Kollən, büyün, da, daha -->
     <tag name="AUX">23</tag><!-- dəyil, i, bil, ol -->
     <tag name="CCONJ">12</tag><!-- amma, və, nə, vә, ya -->
-    <tag name="DET">11</tag><!-- bir, bu, dənə, harda, heç, o, tamam -->
+    <tag name="DET">9</tag><!-- bir, bu, harda, heç, o, tamam -->
     <tag name="INTJ">1</tag><!-- Pəs -->
-    <tag name="NOUN">178</tag><!-- ev, kitab, mədrəsə, uşaq, ana, otaq, qardaş, yoldaş, abi, düktür -->
+    <tag name="NOUN">182</tag><!-- ev, kitab, mədrəsə, uşaq, ana, otaq, qardaş, yoldaş, abi, düktür -->
     <tag name="NUM">8</tag><!-- üç, bir, beş, ikki, neçә -->
     <tag name="PRON">29</tag><!-- o, mən, -ki, bu, sən, Nәmә, belə, biz, kim, nə -->
     <tag name="PROPN">64</tag><!-- Deniz, Peter, Mary, Ayşə, Ayhan, Brown, Fәransә, Jane, Paris, Sam -->
-    <tag name="PUNCT">133</tag><!-- ., ?, ,, -, !, ; -->
+    <tag name="PUNCT">134</tag><!-- ., ,, ?, -, !, ;, _ -->
     <tag name="SCONJ">4</tag><!-- ki, əyər -->
-    <tag name="VERB">126</tag><!-- oxu, yat, ol, ver, elə, gəl, al, get, el, apar -->
+    <tag name="VERB">129</tag><!-- oxu, yat, ol, ver, elə, gəl, al, get, bax, el -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="34">
+  <deps unique="33">
     <dep name="acl">4</dep>
-    <dep name="advcl">17</dep>
+    <dep name="advcl">18</dep>
     <dep name="advmod">18</dep>
     <dep name="advmod:emph">3</dep>
-    <dep name="amod">9</dep>
+    <dep name="amod">10</dep>
     <dep name="appos">1</dep>
     <dep name="aux">15</dep>
-    <dep name="case">8</dep>
+    <dep name="case">9</dep>
     <dep name="cc">12</dep>
     <dep name="ccomp">8</dep>
-    <dep name="clf">3</dep>
     <dep name="compound">8</dep>
     <dep name="compound:lvc">14</dep>
     <dep name="compound:redup">2</dep>
@@ -56,17 +55,17 @@
     <dep name="fixed">2</dep>
     <dep name="flat">2</dep>
     <dep name="mark">4</dep>
-    <dep name="nmod">27</dep>
+    <dep name="nmod">31</dep>
     <dep name="nmod:poss">1</dep>
     <dep name="nsubj">99</dep>
     <dep name="nsubj:outer">1</dep>
     <dep name="nummod">8</dep>
-    <dep name="obj">39</dep>
+    <dep name="obj">40</dep>
     <dep name="obl">61</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">3</dep>
-    <dep name="punct">133</dep>
-    <dep name="root">108</dep>
+    <dep name="punct">134</dep>
+    <dep name="root">109</dep>
     <dep name="vocative">1</dep>
     <dep name="xcomp">9</dep>
   </deps>
