@@ -1,12 +1,12 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Azerbaijani-TueCL:
-commit 06fceef8686b330b55277b658dc3180a044d74eb
+commit d67dfd4a1867c0e62bf5f593926545d86b8f4be2
+Merge: f4693e7 e064250
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 10:16:09 2024 +0200
-Size: counted 656 of 656 words (nodes).
+Size: counted 663 of 663 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
@@ -15,14 +15,14 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 14 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 0 out of 656 total words have one or more features.
+Features: 0 out of 663 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 29 out of 37 found in the corpus.
+Universal relations: 28 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
                TOTAL        177
 Udapi: found 177 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 656 words.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 663 words.
 Genres: found 1 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang az --max-err=10 UD_Azerbaijani-TueCL/az_tuecl-ud-test.conllu
 *** PASSED ***
@@ -34,7 +34,7 @@ Validity: 1
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.823529411764706) = 0.0633484162895928
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.783783783783784) = 0.0602910602910603
-(TOTAL score=0.209446414740532) * (availability=1) * (validity=1) = 0.209446414740532
+(weight=0.0769230769230769) * (score{udeprels}=0.756756756756757) = 0.0582120582120582
+(TOTAL score=0.20736741266153) * (availability=1) * (validity=1) = 0.20736741266153
 STARS = 1
-UD_Azerbaijani-TueCL	0.209446414740532	1
+UD_Azerbaijani-TueCL	0.20736741266153	1
