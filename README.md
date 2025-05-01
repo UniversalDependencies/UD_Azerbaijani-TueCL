@@ -7,8 +7,8 @@ South Azerbaijani, hence uses the ISO code for the macrolanguage
 
 # Introduction
 
-Azerbaijani-TueCL contains totaly ~110 sentences including 20 Cairo sentences, and ~90 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank. 
-Translation of all sentences are available in English, Turkish and Kyrgyz languages.
+Azerbaijani-TueCL contains totaly 139 sentences including 20 Cairo sentences, and 119 sentences suggested by [UD Turkic Group](https://github.com/ud-turkic). This treebank is a part of UD Turkic Treebank. 
+Translation of all sentences are available in English.
 
 Azerbaijani is written currently in three different alphabets: the Persian alphabet in the South, the Cyrillic and Latin alphabets in the North. This treebank contains only sentences with Latin script now, and more sentences in (Arabic-based) Persian alphabet will be added.
 
