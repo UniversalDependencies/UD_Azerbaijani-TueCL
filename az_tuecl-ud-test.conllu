@@ -263,7 +263,7 @@
 
 # sent_id = cairo-17.1
 # text = O Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi.
-# glossing = she hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but 
+# glossing = she hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
 1	O	O	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
 2	Tüklәrin	tük	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
@@ -280,7 +280,7 @@
 
 # sent_id = cairo-17.2
 # text = Tüklәrin cürləməliydi, amma neçә dәlilә görә o gün eləmәdi.
-# glossing = hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but 
+# glossing = hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
 1	Tüklәrin	tük	NOUN	_	Case=Acc|Number[psor]=Plur|Person[psor]=3	2	obj	_	_
 2	cürləməliydi	cürləmə	VERB	_	Mood=Nec|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
@@ -460,7 +460,7 @@
 
 # sent_id = udtw23-8
 # text = Sudə üç saatdı(r) afisdə dəyil, Ayşə də evdə dəyilmiş.
-# glossing = Sude three	hour-COP.PRS.3SG office-LOC	not.be.PRS.3SG Ayshe also home-LOC not.be-PFV.PST.3SG			
+# glossing = Sude three	hour-COP.PRS.3SG office-LOC	not.be.PRS.3SG Ayshe also home-LOC not.be-PFV.PST.3SG
 # text[en] = Sude was not at the office for three hours, and Ayshe was not at home.
 1	Sudə	Sudə	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	üç	üç	NUM	_	_	3	nummod	_	_
@@ -1088,7 +1088,7 @@
 
 # sent_id = 48
 # text = Deniz tətil olduğunu yadınnan cıxardıp, mədrəsəyə getmişdi.
-# glossing = Deniz holiday be-PTCP-ACC memory-POSS.3SG-ABL 
+# glossing = Deniz holiday be-PTCP-ACC memory-POSS.3SG-ABL
 # text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
 2	tətil	tətil	NOUN	_	Case=Nom|Number=Sing	3	compound	_	_
@@ -1630,3 +1630,4 @@
 10	çarpaz	çarpaz	ADJ	_	_	11	advmod	_	_
 11	tozlanır	tozlaş	VERB	_	Aspect=Hab|Number=Sing|Person=3|Tense=Pres	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
+
