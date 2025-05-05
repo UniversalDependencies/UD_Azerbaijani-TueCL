@@ -410,11 +410,11 @@
 21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-4
-# text = Ayşə düktürdü(r).
+# text = Ayşə düktürdür.
 # glossing = Ayshe doctor-COP.3SG
 # text[en] = Ayshe is a doctor.
 1	Ayşə	Ayşe	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	düktürdü(r)	düktür	NOUN	_	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+2	düktürdür	düktür	NOUN	_	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-5
@@ -459,12 +459,12 @@
 6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-8
-# text = Sudə üç saatdı(r) afisdə dəyil, Ayşə də evdə dəyilmiş.
+# text = Sudə üç saatdır afisdə dəyil, Ayşə də evdə dəyilmiş.
 # glossing = Sude three	hour-COP.PRS.3SG office-LOC	not.be.PRS.3SG Ayshe also home-LOC not.be-PFV.PST.3SG
 # text[en] = Sude was not at the office for three hours, and Ayshe was not at home.
 1	Sudə	Sudə	PROPN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 2	üç	üç	NUM	_	_	3	nummod	_	_
-3	saatdı(r)	saat	NOUN	_	Number=Sing|Person=3|Tense=Pres	4	advcl	_	_
+3	saatdır	saat	NOUN	_	Number=Sing|Person=3|Tense=Pres	4	advcl	_	_
 4	afisdə	afis	NOUN	_	Case=Loc|Number=Sing	0	root	_	_
 5	dəyil	dəyil	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	aux	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
@@ -781,6 +781,14 @@
 2	mohəssildir	mohəssil	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	_
 
+# sent_id = 15
+# text = Deniz mohəssildir.
+# glossing = Deniz student-COP.PRS.3SG
+# text[en] = Deniz is a student.
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	mohəssildir	mohəssil	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	_
+
 # sent_id = 16
 # text = Deniz düktür olacax.
 # glossing = Deniz doctor become-FUT.3SG
@@ -949,6 +957,15 @@
 3	görmədi	gör	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
+# sent_id = 33
+# text = Deniz anasın görməyib.
+# glossing = Deniz mother-POSS.3SG-(ACC) see-NEG-PFV.PRS.3SG
+# text[en] = (It turned out that) Deniz did not see her/his mother.
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+2	anasın	ana	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
+3	görməyib	gör	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+
 # sent_id = 34
 # text = Deniz anasın görməmiş olmadı.
 # glossing = Deniz mother-POSS.3SG-(ACC) see-NEG-EVID become-NEG-PST.3SG
@@ -1005,12 +1022,12 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
-# text = Deniz otaqda yoxdu(r).
+# text = Deniz otaqda yoxdur.
 # glossing = Deniz room-LOC not.exist-COP.3SG
 # text[en] = Deniz was not in the room.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	otaqda	otaq	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
-3	yoxdu(r)	yox	ADJ	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+3	yoxdur	yox	ADJ	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 41
@@ -1115,15 +1132,16 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 50
-# text = Deniz gec yatsa mədrəsəyə gecikip.
-# glossing = Deniz late sleep-COND.3SG school-DAT late-PFV.3SG
+# text = Deniz gec yatsa mədrəsəyə gec qalar.
+# glossing = Deniz late sleep-COND.3SG school-DAT late stay-AOR.3SG
 # text[en] = If Deniz sleeps late, s/he would be late.
-1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 2	gec	gec	ADV	_	_	3	advmod	_	_
-3	yatsa	yat	VERB	_	Mood=Cnd|Number=Sing|Person=3	5	advcl	_	_
-4	mədrəsəyə	mədrəsə	NOUN	_	Case=Dat|Number=Sing	5	obl	_	_
-5	gecikip	gecik	VERB	_	Aspect=Perf|Number=Sing|Person=3|VerbForm=Conv	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+3	yatsa	yat	VERB	_	Mood=Cnd|Number=Sing|Person=3	6	advcl	_	_
+4	mədrəsəyə	mədrəsə	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
+5	gec	gec	ADV	_	_	6	advmod	_	_
+6	qalar	qal	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 51
 # text = Deniz gec yatsa mədrəsəyə gec qalacax.
@@ -1361,12 +1379,12 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 73
-# text = Deniz evdə yoxdu(r)?
+# text = Deniz evdə yoxdur?
 # glossing = Deniz home-LOC not.exist-COP.3SG
 # text[en] = Is Deniz not at home?
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 2	evdə	ev	NOUN	_	Case=Loc|Number=Sing	3	obl	_	_
-3	yoxdu(r)	yox	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+3	yoxdur	yox	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 74
@@ -1630,4 +1648,3 @@
 10	çarpaz	çarpaz	ADJ	_	_	11	advmod	_	_
 11	tozlanır	tozlaş	VERB	_	Aspect=Hab|Number=Sing|Person=3|Tense=Pres	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	8	punct	_	_
-
