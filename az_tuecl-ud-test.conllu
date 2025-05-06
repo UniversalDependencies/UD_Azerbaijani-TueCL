@@ -51,15 +51,15 @@
 # glossing = you.2PL go-INF want-PRS-2PL
 # text[en] = Do you want to go?
 1	Siz	siz	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
-2	getmək	git	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
+2	getmək	get	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 3	istəyirsiniz	istə	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-4.2
-# text = getmək istəyirsiniz?
+# text = Getmək istəyirsiniz?
 # glossing = go-INF want-PRS-2PL
 # text[en] = Do you want to go?
-1	getmək	git	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
+1	getmək	get	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 2	istəyirsiniz	istə	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 3	?	?	PUNCT	_	_	2	punct	_	_
 
