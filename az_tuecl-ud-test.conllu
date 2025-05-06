@@ -131,13 +131,13 @@
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-10
-# text = İguazu böyük bir kisvərdir, ya kiçik?
+# text = İguazu böyük bir kişvərdir, ya kiçik?
 # glossing = Iguazu big one country-PRS.COP.3SG or small
 # text[en] = Is Iguazu a big or a small country?
 1	İguazu	İguazu	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	böyük	böyük	ADJ	_	_	4	amod	_	_
 3	bir	bir	DET	_	Definite=Ind	4	det	_	_
-4	kisvərdir	keşvər	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+4	kişvərdir	keşvər	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	ya	ya	CCONJ	_	_	7	cc	_	_
 7	kiçik	kiçik	ADJ	_	_	4	conj	_	SpaceAfter=No
