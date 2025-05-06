@@ -1482,7 +1482,7 @@
 # glossing = I-DAT blue-POSS.3SG-ACC give-AOR-2SG
 # text[en] = Can you give me the blue one?
 1	Mənə	mən	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
-2	abisini	abi	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
+2	abisini	abi	Adj	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	_
 3	verərsən	ver	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	_
 
