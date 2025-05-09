@@ -5,68 +5,122 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>109</sentences><tokens>655</tokens><words>663</words><fused>8</fused></total>
+    <total><sentences>148</sentences><tokens>902</tokens><words>912</words><fused>9</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>109</sentences><tokens>655</tokens><words>663</words><fused>8</fused></test>
+    <test><sentences>148</sentences><tokens>902</tokens><words>912</words><fused>9</fused></test>
   </size>
-  <lemmas unique="230" /><!-- ., Deniz, ev, ,, ?, kitab, oxu, yat, ol, o, dəyil, elə, i, mədrəsə, ver -->
-  <forms unique="352" /><!-- ., Deniz, ,, ?, evdə, kitab, kitabı, o, amma, bir, mədrəsəyə, var, Denizin, böyük, dəyil -->
-  <fusions unique="7" /><!-- evdəki, Denizinkinin, aşpazxananınkını, bağdakı, kitabxanadakılar, pərəstarıdı, sәninkindәn -->
+  <lemmas unique="263" /><!-- ., Deniz, ?, kitab, ,, ev, oxu, o, ol, yat, elə, ver, bil, dəyil, gəl -->
+  <forms unique="410" /><!-- ., Deniz, ?, ,, evdə, kitab, kitabı, o, amma, bir, var, verdi, iydi, ki, mədrəsəyə -->
+  <fusions unique="8" /><!-- evdəki, Denizinkinin, aşpazxananınkını, bağdakı, evdəkininki, kitabxanadakılar, pərəstarıdı, səninkindən -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="14">
-    <tag name="ADJ">32</tag><!-- var, böyük, yaxçı, yox, abi, kiçik, bətər, cəvan, gözəl, kifayət -->
-    <tag name="ADP">9</tag><!-- için, ki, qədər, -ki, görә, çan -->
-    <tag name="ADV">27</tag><!-- tez, də, gec, mat, yox, çox, Kollən, büyün, da, daha -->
-    <tag name="AUX">23</tag><!-- dəyil, i, bil, ol -->
-    <tag name="CCONJ">12</tag><!-- amma, və, nə, vә, ya -->
-    <tag name="DET">9</tag><!-- bir, bu, harda, heç, o, tamam -->
+  <tags unique="15">
+    <tag name="ADJ">47</tag><!-- var, yox, böyük, yaxçı, abi, kiçik, boş, büyük, bətər, cəvan -->
+    <tag name="ADP">11</tag><!-- için, görə, ki, qədər, -ki, çan -->
+    <tag name="ADV">33</tag><!-- də, gec, elə, tez, da, fəqət, kollən, mat, çox, büyün -->
+    <tag name="AUX">29</tag><!-- dəyil, i, bil, ol -->
+    <tag name="CCONJ">15</tag><!-- amma, və, nə, ya -->
+    <tag name="DET">12</tag><!-- bir, bu, o, heç, tamam -->
     <tag name="INTJ">1</tag><!-- Pəs -->
-    <tag name="NOUN">182</tag><!-- ev, kitab, mədrəsə, uşaq, ana, otaq, qardaş, yoldaş, abi, düktür -->
-    <tag name="NUM">8</tag><!-- üç, bir, beş, ikki, neçә -->
-    <tag name="PRON">29</tag><!-- o, mən, -ki, bu, sən, Nәmә, belə, biz, kim, nə -->
-    <tag name="PROPN">64</tag><!-- Deniz, Peter, Mary, Ayşə, Ayhan, Brown, Fәransә, Jane, Paris, Sam -->
-    <tag name="PUNCT">134</tag><!-- ., ,, ?, -, !, ;, _ -->
-    <tag name="SCONJ">4</tag><!-- ki, əyər -->
-    <tag name="VERB">129</tag><!-- oxu, yat, ol, ver, elə, gəl, al, get, bax, el -->
+    <tag name="NOUN">243</tag><!-- kitab, ev, mədrəsə, uşaq, ana, söbh, maşın, qardaş, fikr, otaq -->
+    <tag name="NUM">8</tag><!-- üç, neçə, beş, bir, ikki -->
+    <tag name="PART">1</tag><!-- də -->
+    <tag name="PRON">47</tag><!-- o, mən, sən, -ki, bu, Nəmə, biz, kim, nə, siz -->
+    <tag name="PROPN">88</tag><!-- Deniz, Ayhan, Peter, Ayşə, Mary, Fəransə, Paris, Brown, Fərvərdin, Hakan -->
+    <tag name="PUNCT">182</tag><!-- ., ?, ,, -, _, !, ; -->
+    <tag name="SCONJ">5</tag><!-- ki, əyər -->
+    <tag name="VERB">190</tag><!-- oxu, yat, ver, elə, gəl, get, ol, al, bax, düşün -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="52">
+    <feat name="Aspect" value="Hab" upos="VERB">7</feat><!-- verərsən, baxmaz, gəlip, oxuyar, qalar, tozlanır -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">62</feat><!-- Oxuduxlarını, iydi, alıp, apardı, böyüdü, cıxardıp, eləmədi, getdi, getmişdi, verdi -->
+    <feat name="Aspect" value="Prog" upos="AUX,VERB">41</feat><!-- düşünmürü, istəyir, oxur, Boşla, baxıran, bilmirlər, bilərsiz, elirdi, elirəm, istəyirsiniz -->
+    <feat name="Aspect" value="Prosp" upos="AUX,VERB">5</feat><!-- baxacaqıdıx, olacax, oxuyacaxlarını, qalacax, yatacax -->
+    <feat name="Case" value="Abl" upos="ADJ,NOUN,PRON">9</feat><!-- yadınnan, otaqdan, qardaşınnan, qəzadan, resturandan, sənin, tezdən, yoldaşlarınnan -->
+    <feat name="Case" value="Acc" upos="ADJ,AUX,NOUN,PRON,VERB">57</feat><!-- kitabı, Oxuduxlarını, anasın, Tüklərin, içməni, maşını, olduğunu, onu, oxumağı, yazdığını -->
+    <feat name="Case" value="Com" upos="NOUN,PROPN">3</feat><!-- Peterinən, qardaşıynan, yoldaşıynan -->
+    <feat name="Case" value="Dat" upos="ADJ,NOUN,PRON,PROPN,VERB">42</feat><!-- mədrəsəyə, Ayhana, evə, mənə, Nəməyə, dəlilə, ona, uşaqlara, yoldaşına, ərinə -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN,VERB">27</feat><!-- Denizin, Anasının, Bunun, Fəransənin, Kimin, mənim, Evin, Hakanın, Mizin, Mənin -->
+    <feat name="Case" value="Ins" upos="NOUN,PRON">2</feat><!-- bizinən, gözünən -->
+    <feat name="Case" value="Loc" upos="AUX,NOUN,PRON,PROPN,VERB">41</feat><!-- evdə, Parisdə, kitabxanada, otaqda, Bazarda, afisdə, aylarında, bağda, danışanda, evdədir -->
+    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN,VERB">208</feat><!-- Deniz, kitab, O, söbh, Ayşə, Fikr, uşaq, Mary, Moəllim, Sən -->
+    <feat name="Definite" value="Ind" upos="DET">3</feat><!-- bir -->
+    <feat name="Degree" value="Cmp" upos="ADV">1</feat><!-- çoxtər -->
+    <feat name="Evident" value="Fh" upos="VERB">9</feat><!-- böyüdü, baxmaz, gəlip, qalar, rahatlaşdırır, söyür, yuxlur, çalışdı -->
+    <feat name="Evident" value="Nfh" upos="VERB">9</feat><!-- getmişdi, yatmış, eləmişimiş, etdirməliyik, getməmış, görməmiş, yatmışdı -->
+    <feat name="ExtPos" value="CCONJ" upos="CCONJ">1</feat><!-- nə -->
+    <feat name="Mood" value="Cnd" upos="VERB">4</feat><!-- yatsa, yatsaydı -->
+    <feat name="Mood" value="Imp" upos="VERB">1</feat><!-- aç -->
+    <feat name="Mood" value="Ind" upos="ADJ,AUX,NOUN,VERB">134</feat><!-- verdi, aldı, var, dəyil, olacax, düşünmürü, dəyildi, getdi, istəyir, iydi -->
+    <feat name="Mood" value="Nec" upos="VERB">3</feat><!-- cürləməliydi, etdirməliyik -->
+    <feat name="Mood" value="Sub" upos="VERB">6</feat><!-- gələ, ola, tərkidə, yata, yatmıya -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PRON,VERB">45</feat><!-- Oxuduxlarını, Olar, Siz, bilmirlər, bilərsiz, eliriz, istəyirsiniz, uşaqlara, Cəvanlara, Nəticələr -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">501</feat><!-- Deniz, evdə, kitab, kitabı, O, var, verdi, iydi, mədrəsəyə, Ayhana -->
+    <feat name="Number[psor]" value="Plur" upos="NOUN,VERB">4</feat><!-- Tüklərin, elədigimiz, hədəflərini, təkamulları -->
+    <feat name="Number[psor]" value="Sing" upos="ADJ,AUX,NOUN,PRON,PROPN,VERB">73</feat><!-- Oxuduxlarını, abisi, anasın, Anasının, evdə, kitabı, olduğunu, paytəxti, qardaşı, yadınnan -->
+    <feat name="NumType" value="Card" upos="NUM">4</feat><!-- beş, bir, ikki, üç -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">15</feat><!-- mənə, elirəm, mənim, Mənin, baxacaqıdıx, bilmədim, biz, bizinən, diyirəm, etdirməliyik -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">27</feat><!-- Sən, Boşla, Siz, baxıran, bilərsiz, eliriz, istəyirsiniz, verərsən, Oxuduğuzu, Sənə -->
+    <feat name="Person" value="3" upos="ADJ,AUX,NOUN,PRON,VERB">160</feat><!-- O, var, verdi, iydi, aldı, dəyil, olacax, oxur, düşünmürü, dəyildi -->
+    <feat name="Person[psor]" value="1" upos="NOUN,VERB">4</feat><!-- babam, elədigimiz, maşınım, Ərim -->
+    <feat name="Person[psor]" value="2" upos="PRON">1</feat><!-- kindən -->
+    <feat name="Person[psor]" value="3" upos="ADJ,AUX,NOUN,PROPN,VERB">69</feat><!-- Oxuduxlarını, abisi, anasın, Anasının, Tüklərin, kitabı, olduğunu, paytəxti, qardaşı, yadınnan -->
+    <feat name="Polarity" value="Neg" upos="ADJ,AUX,VERB">40</feat><!-- dəyil, yox, düşünmürü, dəyildi, bilmirlər, eləmədi, yoxdur, baxmaz, bilmir, bilmədim -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">8</feat><!-- o, Bunun, bu, bunu -->
+    <feat name="PronType" value="Int" upos="NUM,PRON">9</feat><!-- Kimin, Nəməyə, neçə, nə, harda -->
+    <feat name="PronType" value="Neg" upos="DET">1</feat><!-- heç -->
+    <feat name="PronType" value="Prs" upos="PRON">26</feat><!-- O, Sən, mənə, Olar, Siz, mənim, onu, Mənin, Sənə, biz -->
+    <feat name="Tense" value="Fut" upos="AUX,VERB">9</feat><!-- olacax, gələcəgidi, oxutdurulacax, oxuyacaxlarını, qalacax, yatacax -->
+    <feat name="Tense" value="Past" upos="AUX,NOUN,VERB">91</feat><!-- verdi, iydi, aldı, Oxuduxlarını, dəyildi, getdi, yatmış, apardı, böyüdü, cürləməliydi -->
+    <feat name="Tense" value="Pqp" upos="VERB">1</feat><!-- eləmişimiş -->
+    <feat name="Tense" value="Pres" upos="ADJ,AUX,NOUN,VERB">73</feat><!-- var, dəyil, oxur, düşünmürü, istəyir, söyür, yoxdur, baxıran, bilmirlər, bilərsiz -->
+    <feat name="VerbForm" value="Conv" upos="VERB">15</feat><!-- alıp, cıxardıp, gələ, açır, getməmış, götürüb, ola, oxuyarakən, yata, yatmıya -->
+    <feat name="VerbForm" value="Fin" upos="VERB">1</feat><!-- gəlirən -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">25</feat><!-- Oxuduxlarını, yatmış, yazdığını, Oxuduğuzu, bilmiş, danışanda, elədigimiz, görməmiş, olanda, olmuyan -->
+    <feat name="VerbForm" value="Vnoun" upos="AUX,VERB">25</feat><!-- oxumaq, getmək, içməni, olduğunu, oxumağı, çekmağı, çekmə, eləməyə, olmamasıdır, olmağı -->
+    <feat name="Voice" value="Cau" upos="VERB">5</feat><!-- annadır, etdirməliyik, oyandırax, qutar, rahatlaşdırır -->
+    <feat name="Voice" value="CauCau" upos="VERB">3</feat><!-- yudurtdu, rənglədi -->
+    <feat name="Voice" value="CauCauPass" upos="VERB">1</feat><!-- oxutdurulacax -->
+    <feat name="Voice" value="CauPass" upos="VERB">1</feat><!-- yoxladıldı -->
+    <feat name="Voice" value="Pass" upos="VERB">2</feat><!-- oxunur, verildi -->
+    <feat name="Voice" value="Rcp" upos="VERB">1</feat><!-- qucaxlaşdılar -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="33">
+  <deps unique="34">
     <dep name="acl">4</dep>
-    <dep name="advcl">18</dep>
-    <dep name="advmod">18</dep>
-    <dep name="advmod:emph">3</dep>
-    <dep name="amod">10</dep>
-    <dep name="appos">1</dep>
-    <dep name="aux">15</dep>
-    <dep name="case">9</dep>
-    <dep name="cc">12</dep>
-    <dep name="ccomp">8</dep>
-    <dep name="compound">8</dep>
-    <dep name="compound:lvc">14</dep>
+    <dep name="advcl">25</dep>
+    <dep name="advmod">26</dep>
+    <dep name="advmod:emph">6</dep>
+    <dep name="amod">15</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">18</dep>
+    <dep name="case">11</dep>
+    <dep name="cc">15</dep>
+    <dep name="ccomp">13</dep>
+    <dep name="compound">12</dep>
+    <dep name="compound:lvc">17</dep>
     <dep name="compound:redup">2</dep>
-    <dep name="conj">17</dep>
-    <dep name="cop">7</dep>
-    <dep name="det">9</dep>
-    <dep name="discourse">1</dep>
-    <dep name="fixed">2</dep>
+    <dep name="conj">26</dep>
+    <dep name="cop">9</dep>
+    <dep name="csubj">3</dep>
+    <dep name="det">14</dep>
+    <dep name="discourse">2</dep>
+    <dep name="fixed">1</dep>
     <dep name="flat">2</dep>
-    <dep name="mark">4</dep>
-    <dep name="nmod">31</dep>
-    <dep name="nmod:poss">1</dep>
-    <dep name="nsubj">99</dep>
+    <dep name="mark">5</dep>
+    <dep name="nmod">38</dep>
+    <dep name="nmod:poss">2</dep>
+    <dep name="nsubj">131</dep>
     <dep name="nsubj:outer">1</dep>
     <dep name="nummod">8</dep>
-    <dep name="obj">40</dep>
-    <dep name="obl">61</dep>
+    <dep name="obj">66</dep>
+    <dep name="obl">87</dep>
     <dep name="orphan">2</dep>
     <dep name="parataxis">3</dep>
-    <dep name="punct">134</dep>
-    <dep name="root">109</dep>
+    <dep name="punct">182</dep>
+    <dep name="root">148</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">9</dep>
+    <dep name="xcomp">15</dep>
   </deps>
 </treebank>
