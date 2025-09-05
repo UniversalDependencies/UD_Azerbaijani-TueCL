@@ -29,6 +29,9 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) fo
 
 # Changelog
 
+* 2025-09-04 v2.16
+  * add parallel corpus information to machine-readable metadata
+  * add parallel data support with parallel_id metadata for cross-lingual sentence matching
 * 2024-05-15 v2.14
   * Initial release in Universal Dependencies.
 
@@ -37,6 +40,7 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) fo
 Data available since: UD v2.14
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: cairo tuecl
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
