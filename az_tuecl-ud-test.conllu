@@ -373,6 +373,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-1
+# parallel_id = tuecl/udtw23-1
 # text = Ərim bağdakı uşağ otağının pəncərəsini tez-tez təmizləmişdi, aşpazxananınkını təmizləməmişdi.
 # glossing = husband-POSS.1SG garden-LOC-KI child room-POSS.3SG-GEN window-POSS.3SG-ACC	fast-fast clean-PFV-PST.3SG kitchen-POSS.3SG-KI-ACC clean-NEG-PFV-PST.3SG
 # text[en] = My spouse cleaned the windows of the children's room at the summer house hastily, (but) didn't clean the kitchen's.
@@ -395,6 +396,7 @@
 15	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = udtw23-2
+# parallel_id = tuecl/udtw23-2
 # text = Sənə bunu həmişə diyirəm, söbhlər yoldaşıynan telfunda danışanda mənim moridimdə danışma.
 # glossing = you-DAT this-ACC always say-PROG-1SG morning-3PL friend-POSS.2SG-COM phone-LOC	speak-PTCP-LOC I-GEN  topic-POSS.1SG-LOC speak.Prog-NEG
 # text[en] = I always tell you this, don’t talk about me on the phone with your friend in the morning.
@@ -413,6 +415,7 @@
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-3
+# parallel_id = tuecl/udtw23-3
 # text = Gecəni qalan qonax qapını çalmışdı, amma ev sahab sil-süpür elirdi və resturandan sifariş verən qəza hələ gələcəgidi.
 # glossing = night-ACC stay-PTCP guest door-ACC knock-PFV-PST.3SG, but house.owner clean-sweep make-PROG-PST.3SG and restaurant-ABL order give-PTCP food still come-NEG-FUT-PST.3SG
 # text[en] = The overnight guest knocked on the door, but the host was still cleaning, and the food she had ordered from the restaurant was yet to come.
@@ -439,6 +442,7 @@
 21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-4
+# parallel_id = tuecl/udtw23-4
 # text = Ayşə düktürdür.
 # glossing = Ayshe doctor-COP.3SG
 # text[en] = Ayshe is a doctor.
@@ -447,6 +451,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-5
+# parallel_id = tuecl/udtw23-5
 # text = Həll eləməyə təlaş elədigimiz məsələ kitabxanada beş dənə kitaba da yer olmamasıdır.
 # glossing = solve doing-DAT try do-PTCP-POSS.1PL problem this-COP.3SG that library-LOC five grain book-DAT even place be.NEG.CV.3SG
 # text[en] = .
@@ -465,6 +470,7 @@
 13	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = udtw23-6
+# parallel_id = tuecl/udtw23-6
 # text = Böyük nənəsı  pərəstarıdı.
 # glossing = grand mother-POSS.3SG nurse-COP.PST.3SG
 # text[en] = His/her grandmother was a nurse.
@@ -476,6 +482,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-7
+# parallel_id = tuecl/udtw23-7
 # text = Pəs kitabxanadakılar harda iydi?
 # glossing = so library-LOC-KI-PL where-LOC	COP.PST.3SG
 # text[en] = So where were the [ones] on the bookshelf?
@@ -488,6 +495,7 @@
 6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-8
+# parallel_id = tuecl/udtw23-8
 # text = Sudə üç saatdır afisdə dəyil, Ayşə də evdə dəyilmiş.
 # glossing = Sude three	hour-COP.PRS.3SG office-LOC	not.be.PRS.3SG Ayshe also home-LOC not.be-PFV.PST.3SG
 # text[en] = Sude was not at the office for three hours, and Ayshe was not at home.
@@ -504,6 +512,7 @@
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-9
+# parallel_id = tuecl/udtw23-9
 # text = Bazarda mivə var amma yaxçı dəyil.
 # glossing = market-LOC	fruit EXIST.PRS.3SG	but	good not.be-PRS.3SG
 # text[en] = There is fruit in the market, but it’s not pretty.
@@ -516,6 +525,7 @@
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = udtw23-10
+# parallel_id = tuecl/udtw23-10
 # text = Deniz düktür olacax, bilmiş ol!
 # glossing = Deniz doctor be-FUT.3SG know-PTCP  be.Prog.2SG Deniz doctor be-FUT.3SG know-EVIDNFH be.Prog.2SG
 # text[en] = Deniz will be a doctor, (so that) you know!
@@ -528,6 +538,7 @@
 7	!	!	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-11
+# parallel_id = tuecl/udtw23-11
 # text = Deniz yatmış iydi.
 # glossing = Deniz sleep-PTCP COP.PST.3SG
 # text[en] = Deniz was asleep.
@@ -537,6 +548,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-12
+# parallel_id = tuecl/udtw23-12
 # text = Cələsə elam olanda o qədər təəccüb eləmişdi ki mənə elə mat-mat baxırdı.
 # glossing = meeting announce be-PTCT-LOC that  much surprisemake-PFV-PST.3SG that I-DAT like.that surprisingly look-PROG-PST.3SG
 # text[en] = S/he must have been so surprised as the meeting was being announced that s/he kept looking at me.
@@ -557,6 +569,7 @@
 15	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = udtw23-13
+# parallel_id = tuecl/udtw23-13
 # text = Jakətim evdə iymiş?
 # glossing = jacket-POSS.1SG home-LOC be.PST...3SG
 # text[en] = Was my cardigan at home?
@@ -566,6 +579,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-14
+# parallel_id = tuecl/udtw23-14
 # text = Mərasim büyün bərgüzar olacax?
 # glossing = event today hold be.AUX-FUT.3SG
 # text[en] = Is the event to be held today?
@@ -576,6 +590,7 @@
 5	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-15
+# parallel_id = tuecl/udtw23-15
 # text = Nəticələr gəlmış; belə dəyil?
 # glossing = result-PL come-PFV.3SG like.this not.be.PRS.3SG
 # text[en] = The results have been announced, haven’t they?
@@ -587,6 +602,7 @@
 6	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = udtw23-16
+# parallel_id = tuecl/udtw23-16
 # text = Ayşə bu kitabı oxumamış dəyil.
 # glossing = Ayshe this book-ACC read-NEG-PTCP not.be.PRS.3SG
 # text[en] = This is not the case that Ayshe has not read the book.
@@ -598,6 +614,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-17
+# parallel_id = tuecl/udtw23-17
 # text = Kollən, oxumağı yox, amma nəqqaşi çekmağı söyür.
 # glossing = in.general read-ACC no but paint draw-ACC like-PRS.3SG
 # text[en] = In general s/he likes to paint, not to read.
@@ -613,6 +630,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = udtw23-18
+# parallel_id = tuecl/udtw23-18
 # text = Oxuduxlarını yox, oxuyacaxlarını annadır.
 # glossing = read-PTCP.PST-PL-POSS.3SG-ACC not read-PTCP.FUT-PL-POSS.3SG-ACC explain-CAUS-PRS.3SG
 # text[en] = s/he tells what she will read, not what s/he has read.
@@ -624,6 +642,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-19
+# parallel_id = tuecl/udtw23-19
 # text = Bunun abisi çoxtər yaxçıdı. mənə abini verərsən?
 # glossing = this-GEN blue-POSS.3SG very-COMP good-COP I-DAT blue-ACC give-AOR-2SG
 # text[en] = The blue [one] of these is prettier, could you give me the blue one?
@@ -638,6 +657,7 @@
 9	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = udtw23-20
+# parallel_id = tuecl/udtw23-20
 # text = Cəvanlara əlçatmaz hədəflərini tərk etdirməliyik.
 # glossing = young-PL-DAT reach-ABIL-NEG-PTCP goal-PL-POSS.3PL-ACC abandon do-CAUS-NEC-1PL
 # text[en] = We must make the young abandon unattainable goals.
@@ -649,6 +669,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = udtw23-21
+# parallel_id = tuecl/udtw23-21
 # text = Moəllim kitabı alıp, mədrəsəyə getdi.
 # glossing = teacher book-ACC take-3SG. school-DAT go-3SG.PAST
 # text[en] = The teacher took the book and left for school.
@@ -661,6 +682,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = udtw23-22
+# parallel_id = tuecl/udtw23-22
 # text = Moəllim kitabı alıp, mədrəsəyə apardı.
 # glossing = teacher book-ACC take-3SG. school-DAT take-3SG.PAST
 # text[en] = The teacher took the book to school.
