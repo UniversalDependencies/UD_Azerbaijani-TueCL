@@ -1,4 +1,5 @@
 # sent_id = cairo-1
+# parallel_id = cairo/1
 # text = Qız yoldaşına namə yazdı.
 # glossing = girl friend-POSS.3SG-DAT letter write-PST.3SG
 # text[en] = The girl wrote a letter to her friend.
@@ -9,6 +10,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-2
+# parallel_id = cairo/2
 # text = Fikr elirəm yağış yağır.
 # glossing = think do-PRS.1SG rain rain-PRS.3SG
 # text[en] = I think that it is raining.
@@ -19,6 +21,7 @@
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-3.1
+# parallel_id = cairo/3/alt1
 # text = O çalışdı kı siqar çekmə və əlkol içməni tərkidə.
 # glossing = s/he try-PST.3SG that cigarette smoke-INF and alcohol drink-INF-ACC leave-CAUS-SUBJ.3SG
 # text[en] = S/he tried to stop smoking and drinking.
@@ -34,6 +37,7 @@
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-3.2
+# parallel_id = cairo/3/alt2
 # text = siqar çekmə və əlkol içməni tərkitməyə çalışdı.
 # glossing = cigarette smoke-INF and alcohol drink-INF-ACC leave-CAUS-INF-DAT try-PST.3SG
 # text[en] = S/he tried to stop smoking and drinking.
@@ -47,6 +51,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-4.1
+# parallel_id = cairo/4/alt1
 # text = Siz getmək istəyirsiniz?
 # glossing = you.2PL go-INF want-PRS-2PL
 # text[en] = Do you want to go?
@@ -56,6 +61,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-4.2
+# parallel_id = cairo/4/alt2
 # text = Getmək istəyirsiniz?
 # glossing = go-INF want-PRS-2PL
 # text[en] = Do you want to go?
@@ -64,6 +70,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-5
+# parallel_id = cairo/5
 # text = Sam, pəncərəni aç!
 # glossing = Sam window-ACC open.Prog.2SG
 # text[en] = Sam, open the window!
@@ -74,6 +81,7 @@
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.1
+# parallel_id = cairo/6/alt1
 # text = O ərinə maşını yudurtdu.
 # glossing =She husband-DAT car-ACC wash-CAUS-PST.3SG
 # text[en] = She made her husband wash the car.
@@ -84,6 +92,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-6.2
+# parallel_id = cairo/6/alt2
 # text = Ərinə maşını yudurtdu.
 # glossing = husband-DAT car-ACC wash-CAUS-PST.3SG
 # text[en] = She made her husband wash the car.
@@ -93,6 +102,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-7
+# parallel_id = cairo/7
 # text = Peterin qonşusu hasarı qırmız rənglədi.
 # glossing = Peter-POSS.3SG neighbor-GEN fence-ACC red paint-PAT.3SG
 # text[en] = Peter’s neighbor painted the fence red.
@@ -104,6 +114,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-8
+# parallel_id = cairo/8
 # text = Mənin babam səninkindən bətərdi.
 # glossing = I-POSS.1SG dad-GEN you-POSS.2SG-ki-ABL cool-PRS.COP.3SG
 # text[en] = My dad is cooler than yours.
@@ -116,6 +127,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = cairo-9
+# parallel_id = cairo/9
 # text = Mary bronz qazandı, Peter gümüş, Jane qızıl.
 # glossing = MAry bronze win-PST.3SG Peter silver Jane gold
 # text[en] = Mary won bronze, Peter silver, and Jane gold.
@@ -131,6 +143,7 @@
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-10
+# parallel_id = cairo/10
 # text = İguazu böyük bir kişvərdir, ya kiçik?
 # glossing = Iguazu big one country-PRS.COP.3SG or small
 # text[en] = Is Iguazu a big or a small country?
@@ -144,6 +157,7 @@
 8	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-11
+# parallel_id = cairo/11
 # text = Nə Peter Smith nə də Mary Brown, intixab ola bildi.
 # glossing = neither Peter Smith nor aslo Mary Brown selected be-SBJV be.able-PST.3SG
 # text[en] = Neither Peter Smith nor Mary Brown could be selected.
@@ -161,6 +175,7 @@
 12	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = cairo-12.1
+# parallel_id = cairo/12/alt1
 # text = Olar Kimin yazdığını bilmirlər.
 # glossing = they who-GEN write-PTCP-POSS.3SG-ACC know-NEG-PRS-3PL
 # text[en] = They have no idea who wrote it.
@@ -171,6 +186,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = cairo-12.2
+# parallel_id = cairo/12/alt2
 # text = Kimin yazdığını bilmirlər.
 # glossing = who-GEN write-PTCP-POSS.3SG-ACC know-NEG-PRS-3PL
 # text[en] = They have no idea who wrote it.
@@ -180,6 +196,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-13.1
+# parallel_id = cairo/13/alt1
 # text = Sən Nəməyə baxıran?
 # glossing = you what-DAT look.at-PRS-2SG
 # text[en] = What are you looking at?
@@ -189,6 +206,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-13.2
+# parallel_id = cairo/13/alt2
 # text = Nəməyə baxıran?
 # glossing = what-DAT look.at-PRS-2SG
 # text[en] = What are you looking at?
@@ -197,6 +215,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-14.1
+# parallel_id = cairo/14/alt1
 # text = Siz Fikr eliriz nə vaxt gələ bilərsiz?
 # glossing = you think do-PRS-2PL when time come-SBJV be.able-PRS-2PL
 # text[en] = When do you think you can come?
@@ -210,6 +229,7 @@
 8	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-14.2
+# parallel_id = cairo/14/alt2
 # text = Fikr eliriz nə vaxt gələ bilərsiz?
 # glossing = think do-PRS-2PL when time come-SBJV be.able-PRS-2PL
 # text[en] = When do you think you can come?
@@ -222,6 +242,7 @@
 7	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-15.1
+# parallel_id = cairo/15/alt1
 # text = O maşın aldı amma qardaşı fəqət çərx aldı.
 # glossing = He one grain car buy-PAST.3SG but brother-POSS.3SG just bike buy-PAST.3SG
 # text[en] = He bought a car but his brother just a bike.
@@ -236,6 +257,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = cairo-15.2
+# parallel_id = cairo/15/alt2
 # text = Maşın aldı amma qardaşı fəqət çərx aldı.
 # glossing = one grain car buy-PAST.3SG but brother-POSS.3SG just bike buy-PAST.3SG
 # text[en] = He bought a car but his brother just a bike.
@@ -249,6 +271,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-16
+# parallel_id = cairo/16
 # text = Peterinən Mary qucaxlaşdılar və sonra otaqdan çıxdılar.
 # glossing = Peter-COM Mary hug-RECP-PST-3PL and then room-ABL exit-PST-3PL
 # text[en] = Peter and Mary hugged each other and then left the room.
@@ -262,6 +285,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-17.1
+# parallel_id = cairo/17/alt1
 # text = O Tüklərin cürləməliydi, amma neçə dəlilə görə o gün eləmədi.
 # glossing = she hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
@@ -279,6 +303,7 @@
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-17.2
+# parallel_id = cairo/17/alt2
 # text = Tüklərin cürləməliydi, amma neçə dəlilə görə o gün eləmədi.
 # glossing = hair-PL-POSS.3SG make-SBJV-PAST.COP.3SG but
 # text[en] = She should have been doing her hair but for some reason she wouldn't that day.
@@ -295,6 +320,7 @@
 11	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = cairo-18
+# parallel_id = cairo/18
 # text = O çox yeyin qaçdığı için ona çata bilmədim.
 # glossing = s/he very fasr run-PTC
 # text[en] = I wasn't able to keep up, because he ran too fast..
@@ -309,6 +335,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = cairo-19
+# parallel_id = cairo/19
 # text = Bu namə Peterdendir və dünən yetişibdir.
 # glossing = this letter Peter-ABL-COP.PRS.3SG and yesterday arrive-PFV-PRS.3SG
 # text[en] = This letter is from Peter and it was delivered yesterday..
@@ -321,6 +348,7 @@
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = cairo-20.1
+# parallel_id = cairo/20/alt1
 # text = O Fəransənin paytəxti, Parisdə böyüdü.
 # glossing = She France-3SG.POSS capital-GEN, Paris-LOC grow.up-PAST.3SG
 # text[en] = She grew up in Paris, the capital of France.
@@ -333,6 +361,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = cairo-20.2
+# parallel_id = cairo/20/alt2
 # text = Fəransənin paytəxti, Parisdə böyüdü.
 # glossing = France-3SG.POSS capital-GEN, Paris-LOC grow.up-PAST.3SG
 # text[en] = She grew up in Paris, the capital of France.
