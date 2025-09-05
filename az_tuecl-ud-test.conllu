@@ -695,6 +695,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 1
+# parallel_id = tuecl/1
 # text = Deniz yoxladı.
 # glossing = Deniz sleep-PST.3SG
 # text[en] = Deniz slept.
@@ -703,6 +704,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 2
+# parallel_id = tuecl/2
 # text = Deniz kitab oxur.
 # glossing = Deniz book read-PRS.3SG
 # text[en] = Deniz is reading a book.
@@ -712,6 +714,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 3
+# parallel_id = tuecl/3
 # text = Deniz axşamlar evdə kitab oxur.
 # glossing = Deniz evening-PL home-LOC book read-PRS.3SG
 # text[en] = Deniz reads books in the evenings.
@@ -723,6 +726,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 4
+# parallel_id = tuecl/4
 # text = Deniz qardaşına kitabı verdi.
 # glossing = Deniz brother-POSS.3SG-DAT book-ACC give-PST.3SG
 # text[en] = Deniz gave the book to his/her sister/brother.
@@ -733,6 +737,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 5
+# parallel_id = tuecl/5
 # text = Deniz kitabı evə apardı.
 # glossing = Deniz book-ACC house-DAT take-PST.3SG
 # text[en] = Deniz took the book home.
@@ -743,6 +748,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 6
+# parallel_id = tuecl/6
 # text = Moəllim uşaqlara dərs verdi.
 # glossing = teacher child-PL-DAT lesson give-PST.3SG
 # text[en] = The teacher lectured the children.
@@ -753,6 +759,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 7
+# parallel_id = tuecl/7
 # text = Deniz yoldaşına bir dənə kitab aldı.
 # glossing = Deniz friend-POSS.3SG-DAT one grain book buy-PST.3SG
 # text[en] = Deniz bought a book for his/her friend.
@@ -765,6 +772,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 8
+# parallel_id = tuecl/8
 # text = Deniz qardaşıynan barışdı.
 # glossing = Deniz brother-POSS.3SG-COM make.peace-PST.3SG
 # text[en] = Deniz made peace with her sister/brother.
@@ -774,6 +782,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 9
+# parallel_id = tuecl/9
 # text = Deniz yoldaşlarınnan şikayət elir.
 # glossing = Deniz friend-POSS.3SG-ABL complaining do-PRS.3SG
 # text[en] = Deniz is complaining about his/her friend.
@@ -784,6 +793,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 10
+# parallel_id = tuecl/10
 # text = Deniz tezdən yatdı.
 # glossing = Deniz early-ABL sleep-PST.3SG
 # text[en] = Deniz slept early.
@@ -793,6 +803,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 11
+# parallel_id = tuecl/11
 # text = Deniz yoldaşının pişirdigi qəzadan ikki boşqab yedi.
 # glossing = Deniz friend-POSS.3SG-GEN cook-PTCP-POSS.3SG food-ABL two plate eat-PST.3SG
 # text[en] = Deniz ate two plates from (of) the meal his/her friend cooked.
@@ -806,6 +817,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 12
+# parallel_id = tuecl/12
 # text = Deniz üç saat yuxladı.
 # glossing = Deniz three hours sleep-PST.3SG
 # text[en] = Deniz slept for three hours.
@@ -816,6 +828,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 13
+# parallel_id = tuecl/13
 # text = Deniz çok yeyindir.
 # glossing = Deniz very fast-COP.PRS.3SG
 # text[en] = Deniz is very fast.
@@ -825,6 +838,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 14
+# parallel_id = tuecl/14
 # text = Deniz mohəssildir.
 # glossing = Deniz student-COP.PRS.3SG
 # text[en] = Deniz is a student.
@@ -833,6 +847,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 15
+# parallel_id = tuecl/15
 # text = Deniz mohəssildir.
 # glossing = Deniz student-COP.PRS.3SG
 # text[en] = Deniz is a student.
@@ -841,6 +856,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 16
+# parallel_id = tuecl/16
 # text = Deniz düktür olacax.
 # glossing = Deniz doctor become-FUT.3SG
 # text[en] = Deniz will become a doctor.
@@ -850,6 +866,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 17
+# parallel_id = tuecl/17
 # text = Deniz evdə.
 # glossing = Deniz home-LOC
 # text[en] = Deniz is at home.
@@ -858,6 +875,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 18
+# parallel_id = tuecl/18
 # text = Deniz evdəyidi.
 # glossing = Deniz home-LOC-be.COP-PST.3SG
 # text[en] = Deniz was at home.
@@ -866,6 +884,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 19
+# parallel_id = tuecl/19
 # text = Deniz evdə iydi.
 # glossing = Deniz home-LOC be.COP-PST.3SG
 # text[en] = Deniz was at home.
@@ -875,6 +894,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 20
+# parallel_id = tuecl/20
 # text = Hediye Deniz içindi.
 # glossing = present Deniz for-COP.PRS.3SG
 # text[en] = The present was for Deniz.
@@ -885,6 +905,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 21
+# parallel_id = tuecl/21
 # text = Deniz yatmışdı.
 # glossing = Deniz sleep-EVID-PST.3SG
 # text[en] = Deniz hat slept.
@@ -893,6 +914,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 22
+# parallel_id = tuecl/22
 # text = Deniz yatmış iydı.
 # glossing = Deniz sleep-EVID be.COP-PST.3SG
 # text[en] = Deniz hat slept.
@@ -902,6 +924,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 23
+# parallel_id = tuecl/23
 # text = Deniz yatmış olacax.
 # glossing = Deniz sleep-EVID become-FUT.3SG
 # text[en] = Deniz will have asleep.
@@ -911,6 +934,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 24
+# parallel_id = tuecl/24
 # text = Anasının arzusu Denizin yaxçı bir mədrəsəde dərs oxumasıydı.
 # glossing = mother-POSS.3SG-GEN dream-POSS.3SG Deniz-GEN good one school-LOC lesson read-INF-POSS.3SG-COP.PST.3SG
 # text[en] = His/her mother's dream was for Deniz to study in a good school.
@@ -925,6 +949,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 25
+# parallel_id = tuecl/25
 # text = Denizin yaxçı bir mədrəsədə dərs oxumaması anasını nigəran elirdi.
 # glossing = Deniz-GEN good one school-LOC lesson read-INF-NEG-POSS.3SG mother-POSS.3SG-ACC worried make-PROG-PST.3SG
 # text[en] = The fact that Deniz did not study in a good school worried her mother.
@@ -940,6 +965,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 26
+# parallel_id = tuecl/26
 # text = Mizin üstündə çox kitab var, kitabxanda yox.
 # glossing = table-GEN top-POSS.3SG-LOC many book exist.PRS.3SG bookshelf-LOC Not
 # text[en] = There are many books on the table, none in the bookshelf.
@@ -954,6 +980,7 @@
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = 27
+# parallel_id = tuecl/27
 # text = Denizin heç kitabı yox.
 # glossing = Deniz-GEN any book-POSS.3SG not.exist.PRS.3SG
 # text[en] = Deniz does not have any books.
@@ -964,6 +991,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 28
+# parallel_id = tuecl/28
 # text =  Deniz evdə dəyildi.
 # glossing = Deniz home-LOC not.be-PST.3SG
 # text[en] = Deniz was not at home.
@@ -973,6 +1001,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 29
+# parallel_id = tuecl/29
 # text = Deniz vəxtikən yatmır.
 # glossing = Deniz on.time sleep-NEG-PRS.3SG
 # text[en] = Deniz does not sleep on time.
@@ -982,6 +1011,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 30
+# parallel_id = tuecl/30
 # text = Deniz yata bilmir.
 # text[en] = Deniz cannot sleep.
 1	Deniz	Deniz	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -990,6 +1020,7 @@
 4	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 31
+# parallel_id = tuecl/31
 # text = Deniz vəxtikən yatmıya bilir.
 # glossing = Deniz on.time sleep-NEG-SBJV be.able-PRS.3SG
 # text[en] = Deniz may not be able to sleep on time.
@@ -1000,6 +1031,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 32
+# parallel_id = tuecl/32
 # text = Deniz anasın görmədi.
 # glossing = Deniz mother-POSS.3SG-(ACC) see-NEG-PST.3SG
 # text[en] = (It turned out that) Deniz did not see her/his mother.
@@ -1009,6 +1041,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 33
+# parallel_id = tuecl/33
 # text = Deniz anasın görməyib.
 # glossing = Deniz mother-POSS.3SG-(ACC) see-NEG-PFV.PRS.3SG
 # text[en] = (It turned out that) Deniz did not see her/his mother.
@@ -1018,6 +1051,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 34
+# parallel_id = tuecl/34
 # text = Deniz anasın görməmiş olmadı.
 # glossing = Deniz mother-POSS.3SG-(ACC) see-NEG-EVID become-NEG-PST.3SG
 # text[en] = Deniz annesini görmemiş olmadi.
@@ -1028,6 +1062,7 @@
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 35
+# parallel_id = tuecl/35
 # text = Oxuduxlarını düşünmürü.
 # glossing = read-PTCP-PL-POSS.3SG-ACC understand-NEG-PRS-3SG
 # text[en] = S/he does not understand things s/he reads.
@@ -1036,6 +1071,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 36
+# parallel_id = tuecl/36
 # text = Oxuduxlarını düşünmürü.
 # glossing = read-PTCP-PL-POSS.3SG-ACC understand-NEG-PRS-3SG
 # text[en] = S/he does not understand things s/he reads.
@@ -1044,6 +1080,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 37
+# parallel_id = tuecl/37
 # text = Oxuduxlarını düşünmürü.
 # glossing = read-PTCP-PL-POSS.3SG-ACC understand-NEG-PRS-3SG
 # text[en] = S/he does not understand things s/he reads.
@@ -1052,6 +1089,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 38
+# parallel_id = tuecl/38
 # text = Oxumağı yox, nəqqaşi çekmağı söyür.
 # glossing = read-ACC no paint draw-ACC like-PRS.3SG
 # text[en] = S/he likes to paint, not to read.
@@ -1064,6 +1102,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 39
+# parallel_id = tuecl/39
 # text = Deniz otaqda dəyildi.
 # glossing = Deniz room-LOC NEG.be-PST.3SG
 # text[en] = Deniz was not in the room.
@@ -1073,6 +1112,7 @@
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 40
+# parallel_id = tuecl/40
 # text = Deniz otaqda yoxdur.
 # glossing = Deniz room-LOC not.exist-COP.3SG
 # text[en] = Deniz was not in the room.
@@ -1082,6 +1122,7 @@
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 41
+# parallel_id = tuecl/41
 # text = Deniz kitab oxumaq istəyir.
 # glossing = Deniz book read-INF want-PRS.3SG
 # text[en] = Deniz wants to read books.
@@ -1092,6 +1133,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 42
+# parallel_id = tuecl/42
 # text = Deniz kitab oxumaq istəyir.
 # glossing = Deniz book read-INF want-PRS.3SG
 # text[en] = Deniz wants to read books.
@@ -1102,6 +1144,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 43
+# parallel_id = tuecl/43
 # text = Deniz babasının ona kitab oxumasını istəyir.
 # text[en] = Deniz wants her/his father to read him/her (a) book.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -1113,6 +1156,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 44
+# parallel_id = tuecl/44
 # text = Deniz özünə olmağı söyür.
 # text[en] = Deniz wants to be by himself/herself.
 # Note: removed Reflex=Yes, it is not a morphological features, but we can discuss it.
@@ -1123,6 +1167,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 45
+# parallel_id = tuecl/45
 # text = Anasının kitab oxuması Denizin yuxlamasını rahatlaşdırır.
 # text[en] = When her/his mother reads, it becomes easier for Deniz to sleep.
 1	Anasının	ana	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	_
@@ -1134,6 +1179,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 46
+# parallel_id = tuecl/46
 # text =  Uşaqlara kitab oxumaq təkamulları için əhəmmiyətlidir.
 # text[en] = Reading to children is Progortant for their development.
 1	Uşaqlara	uşaq	NOUN	_	Case=Dat|Number=Plur	3	obl	_	_
@@ -1145,6 +1191,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 47
+# parallel_id = tuecl/47
 # text = Deniz kitab oxuyarakən yuxlur.
 # text[en] = Deniz reads before sleep (lit: Deniz sleeps by reading).
 # Note: this needs check (changed okuyarak/uyur to oxuyarakən/yuxlur in the text).
@@ -1155,6 +1202,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 48
+# parallel_id = tuecl/48
 # text = Deniz tətil olduğunu yadınnan cıxardıp, mədrəsəyə getmişdi.
 # glossing = Deniz holiday be-PTCP-ACC memory-POSS.3SG-ABL
 # text[en] = Deniz (evidentially) went to school (because) she/he had forgotten that it was holiday.
@@ -1169,6 +1217,7 @@
 9	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 49
+# parallel_id = tuecl/49
 # text = Deniz tətil olduğunu yadınnan cıxardıp kifini götürüb mədrəsəyə getmişdi.
 # text[en] = Deniz took her/his bag and (evidentially) went to school (because) she/he had forgotten that it was holiday.#
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	_
@@ -1183,6 +1232,7 @@
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = 50
+# parallel_id = tuecl/50
 # text = Deniz gec yatsa mədrəsəyə gec qalar.
 # glossing = Deniz late sleep-COND.3SG school-DAT late stay-AOR.3SG
 # text[en] = If Deniz sleeps late, s/he would be late.
@@ -1195,6 +1245,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 51
+# parallel_id = tuecl/51
 # text = Deniz gec yatsa mədrəsəyə gec qalacax.
 # glossing = Deniz late sleep-COND.3SG school-DAT late stay-FUT.3SG
 # text[en] = If Deniz sleeps late, s/he will be late.
@@ -1207,6 +1258,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 52
+# parallel_id = tuecl/52
 # text = Uşaq yatsaydı filmə baxacaqıdıx.
 # glossing = child sleep-COND-COP.PST.3SG film-DAT watch-FUT-COP.PST.1PL
 # text[en] = If the child would sleep, we would watch a movi.
@@ -1217,6 +1269,7 @@
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 53
+# parallel_id = tuecl/53
 # text = Əyər uşaq biz evə getməmış yatsa, yetişincə gərək onu oyandırax.
 # glossing = if child we home-DAT go-NEG-EVID sleep-COND.3SG arrive-as.sson.as must s/he-ACC wake.up-CAUS-1PL
 # text[en] = If the child sleeps before we arrive home, we will need to wake him/her up.
@@ -1234,6 +1287,7 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 54
+# parallel_id = tuecl/54
 # text = Boşla.
 # glossing = let.go.2SG
 # text[en] = Nevermind.
@@ -1241,6 +1295,7 @@
 2	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 55
+# parallel_id = tuecl/55
 # text = Boşla.
 # glossing = let.go.2SG
 # text[en] = Nevermind.
@@ -1248,6 +1303,7 @@
 2	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = 56
+# parallel_id = tuecl/56
 # text = Fikr elirəm ki uşaq tez yatacax.
 # glossing = thought do-PRS-1SG that child early sleep-FUT.3SG
 # text[en] = I think that the child will sleep early.
@@ -1260,6 +1316,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 57
+# parallel_id = tuecl/57
 # text = Deniz qardaşınnan acığı gelir.
 # glossing = Deniz brother-POSS.3SG-ABL hate-POSS.3SG come-PRS.3SG
 # text[en] = Deniz hates his/her brother.
@@ -1270,6 +1327,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 58
+# parallel_id = tuecl/58
 # text = Sabahı səbirsizliklə gözləyirəm.
 # text[en] = I am looking forward to tomorrow.
 1	Sabahı	sabah	NOUN	_	_	3	obj	_	_
@@ -1278,6 +1336,7 @@
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 59
+# parallel_id = tuecl/59
 # text = Xəstəxana xalqın xidmətinə verildi.
 # glossing = hospital people-GEN service-POSS.3SG-DAT give-PASS-PST.3SG
 # text[en] = The hospital was made available to the public.
@@ -1288,6 +1347,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 60
+# parallel_id = tuecl/60
 # text = Böyük evdəki uşaq kitab oxur.
 # glossing = big house-LOC-ATTR child book read-PRS.3SG
 # text[en] = The child in the big house is reading (a) book.
@@ -1301,6 +1361,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 61
+# parallel_id = tuecl/61
 # text = Böyük evdəki kitab oxur.
 # glossing = big house-LOC-ATTR book read-PRS.3SG
 # text[en] = The child in the big house is reading (a) book.
@@ -1313,6 +1374,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 62
+# parallel_id = tuecl/62
 # text = Böyük evdəki uşağın tükləri sarıdır, kiçik evdəkininki qəhveyidir.
 # text[en] = The hair of the child in the big house is blond, the one of the one in the small house is brown.
 1	Böyük	büyük	ADJ	_	_	2	amod	_	_
@@ -1330,6 +1392,7 @@
 12	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = 63
+# parallel_id = tuecl/63
 # text =  Soğanları qərələnə çan qızardın.
 # glossing = onion-PL-ACC black-PTCP-DAT until fry.Prog-2PL
 # text[en] = Fry the onions until they become dark pink.
@@ -1340,6 +1403,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 64
+# parallel_id = tuecl/64
 # text =  Evin qabağında üç maşınlıq park yeri var.
 # glossing = house-GEN front-POSS.3SG-LOC three car.for park place-POSS.3SG exist.PRS.3SG
 # text[en] = There is a three-car parking place in front of the house.
@@ -1353,6 +1417,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 65
+# parallel_id = tuecl/65
 # text = Muqəddəs kitabı olmuyan dinlər də var.
 # glossing = holy book-POSS.3SG be-NEG-PTCP religion-PL also exist.PRS.3SG
 # text[en] = There are religions without holly books.
@@ -1365,6 +1430,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 66
+# parallel_id = tuecl/66
 # text = Kiçik pəncərəli evlərdə kifayət qədər işıq yoxdur.
 # glossing = small window.with home-PL-LOC enough much light not.exist-COP.PRS.3SG
 # text[en] = There is not enough light in the house with small windows.
@@ -1378,6 +1444,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 67
+# parallel_id = tuecl/67
 # text = Deniz evə gəldi?
 # glossing = Deniz home-DAT come-PST.3SG
 # text[en] = Did Deniz come home?
@@ -1387,6 +1454,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 68
+# parallel_id = tuecl/68
 # text = Deniz evə gəlmişdi?
 # glossing = Deniz home-DAT come-PFV-PST.3SG
 # text[en] = Had Deniz come home?
@@ -1396,6 +1464,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 69
+# parallel_id = tuecl/69
 # text = Deniz evdə?
 # glossing = Deniz home-LOC
 # text[en] = Is Deniz at home?
@@ -1404,6 +1473,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 70
+# parallel_id = tuecl/70
 # text = Deniz evdədir?
 # glossing = Deniz home-LOC-COP.PRS.3SG
 # text[en] = Is Deniz at home?
@@ -1412,6 +1482,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 71
+# parallel_id = tuecl/71
 # text = Deniz evdə iydi?
 # glossing = Deniz home-loc COP-PST.3SG
 # text[en] = Was Deniz at home?
@@ -1421,6 +1492,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 72
+# parallel_id = tuecl/72
 # text = Deniz evdə dəyildi?
 # glossing = Deniz home-LOC not.be-PST.3SG
 # text[en] = Was Deniz not at home?
@@ -1430,6 +1502,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 73
+# parallel_id = tuecl/73
 # text = Deniz evdə yoxdur?
 # glossing = Deniz home-LOC not.exist-COP.3SG
 # text[en] = Is Deniz not at home?
@@ -1439,6 +1512,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 74
+# parallel_id = tuecl/74
 # text = Evdə çörək var?
 # glossing = home-LOC bread exist.3SG
 # text[en] = Is there (any) bread at home?
@@ -1448,6 +1522,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 75
+# parallel_id = tuecl/75
 # text = Evdə çörək var?
 # glossing = home-LOC bread exist.3SG
 # text[en] = Is there (any) bread at home?
@@ -1457,6 +1532,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 76
+# parallel_id = tuecl/76
 # text = Çörək var evdə?
 # text[en] = Is there (any) bread at home?
 1	Çörək	çörək	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -1465,6 +1541,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 77
+# parallel_id = tuecl/77
 # text = Oxuduğuzu düsünürdüz?
 # glossing = read-PTCP-POSS.2PL-ACC understand-PROG-PST-2PL
 # text[en] = Were you understanding what you read?
@@ -1473,6 +1550,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 78
+# parallel_id = tuecl/78
 # text = Söbh Deniz kitabı Ayhana verdi?
 # glossing = morning Deniz book-ACC Ayhan-DAT give-PST.3SG
 # text[en] = Did Deniz give the book to Ayhan in the morning?
@@ -1484,6 +1562,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 79
+# parallel_id = tuecl/79
 # text = Söbh Deniz kitabı Ayhana verdi?
 # glossing = morning Deniz book-ACC Ayhan-DAT give-PST.3SG
 # text[en] = Did Deniz give the book to Ayhan in the morning?
@@ -1495,6 +1574,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 80
+# parallel_id = tuecl/80
 # text = Söbh kitabı Deniz Ayhana verdi?
 # glossing = morning book-ACC Deniz Ayhan-DAT give-PST.3SG
 # text[en] = Did Deniz give the book to Ayhan in the morning?
@@ -1506,6 +1586,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 81
+# parallel_id = tuecl/81
 # text = Söbh kitabı Deniz Ayhana verdi?
 # glossing = morning book-ACC Deniz Ayhan-DAT give-PST.3SG
 # text[en] = Did Deniz give the book to Ayhan in the morning?
@@ -1518,6 +1599,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 82
+# parallel_id = tuecl/82
 # text = Deniz kitabı Ayhana söbh verdi?
 # glossing = Deniz book-ACC Ayhan-DAT morning give-PST.3SG
 # text[en] = Did Deniz give the book to Ayhan in the morning?
@@ -1529,6 +1611,7 @@
 6	?	?	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 83
+# parallel_id = tuecl/83
 # text = Mənə abisini verərsən?
 # glossing = I-DAT blue-POSS.3SG-ACC give-AOR-2SG
 # text[en] = Can you give me the blue one?
@@ -1538,6 +1621,7 @@
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 84
+# parallel_id = tuecl/84
 # text = Bunun abisi daha gözəldir.
 # glossing = this-GEN blue-POSS.3SG more pretty-COP.3SG
 # text[en] = The blue (version) of this is nicer.
@@ -1548,6 +1632,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 85
+# parallel_id = tuecl/85
 # text = Mənim maşınım Denizinkinin abisi.
 # glossing = I-GEN car-POSS.1SG Deniz-GEN-ATTR-POSS.3SG blue-POSS.3SG
 # text[en] = My car is the blue (version) of Deniz's.
@@ -1560,6 +1645,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = 86
+# parallel_id = tuecl/86
 # text = Kitab oxunur.
 # glossing = book read-PASS-PRS.3SG
 # text[en] = The book is being read.
@@ -1568,6 +1654,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 87
+# parallel_id = tuecl/87
 # text = Kitab tamam mədrəsələrdə oxutdurulacax.
 # glossing = book all school-PL-LOC read-CAUS-CAUS-PASS-FUT.3SG
 # text[en] = The book will be made to be made to be read in all schools.
@@ -1578,6 +1665,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 88
+# parallel_id = tuecl/88
 # text = Deniz yoxladıldı.
 # text[en] = Deniz was made to sleep.
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -1585,6 +1673,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 89
+# parallel_id = tuecl/89
 # text = Olar getdi.
 # glossing = they go-PST.3SG
 # text[en] = They are gone. / They left.
@@ -1593,6 +1682,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 90
+# parallel_id = tuecl/90
 # text = O getdi.
 # glossing = s/he go-PST.3SG
 # text[en] = S/he left./ S/he is gone.
@@ -1601,6 +1691,7 @@
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = 91
+# parallel_id = tuecl/91
 # text = Deniz buralara gəlip, boş vəxtində kitab oxuyar iydi.
 # text[en] = Deniz used to come here and read a book in her free time.
 # Note: Mood=Gen removed (for now)
@@ -1616,6 +1707,7 @@
 10	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = 92
+# parallel_id = tuecl/92
 # text = Sən də bizinən gəlirən, elə dəyil?
 1	Sən	sən	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 2	də	də	PART	_	_	1	advmod:emph	_	_
@@ -1627,6 +1719,7 @@
 8	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 93
+# parallel_id = tuecl/93
 # text = O elə bir kitabdır ki, onu oxuyan bir də dünyaya eyni gözünən baxmaz.
 # text[en] = It was such a book that the person who read it wouldn't be able to see the world as they did before.
 # Note: Mood=Gen removed (for now)
@@ -1647,6 +1740,7 @@
 15	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 94
+# parallel_id = tuecl/94
 # text = Sən əvvəl təmizləməgi qutar da ütüyü hal elərik.
 # text[en] = You finish the cleaning first, then we will handle the ironing.
 # type = miscellaneous (de connecting sentences, -lIk derivation)
@@ -1662,6 +1756,7 @@
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 95
+# parallel_id = tuecl/95
 # text = Deyəsən Ayşə Hakanın məşq yazmasına kömək eləmişimiş.
 # text[en] = Seemingly Ayşe helped Hakan do his homework.
 1	Deyəsən	de	VERB	_	_	7	advcl	_	_
@@ -1674,6 +1769,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 96
+# parallel_id = tuecl/96
 # text = Kollən movəffəq bir film iydi.
 # text[en] = It was a successful film overall.
 1	Kollən	kollən	ADV	_	_	4	advcl	_	_
@@ -1684,6 +1780,7 @@
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = 97
+# parallel_id = tuecl/97
 # text = Alma ağaclar Fərvərdin-Ordibeheşt aylarında gül açır, çarpaz tozlanır.
 # text[en] = Apple trees bloom (approximately) April to May and cross-pollinate
 # Note: Mood=Gen removed (for now)
