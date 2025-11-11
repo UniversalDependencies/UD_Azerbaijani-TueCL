@@ -1,7 +1,51 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Azerbaijani-TueCL:
+commit 3c8d23b173cdde74809b4aa08825ebbaec198827
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:39:05 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'az_tuecl'
+Language code (from CoNLL-U file name) = 'az'
+Found the following data files: az_tuecl-ud-test.conllu
+Size: counted 912 of 912 words (nodes).
+Size: min(0, log((N/1000)**2)) = 0.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Did not find at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 612 out of 912 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 29 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang az --max-err=10 UD_Azerbaijani-TueCL/az_tuecl-ud-test.conllu
+[Line 125 Sent cairo-8]: [L3 Warning pron-det-without-prontype] The word 'kindən' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 152 Sent cairo-10]: [L3 Warning pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 249 Sent cairo-15.1]: [L3 Warning pron-det-without-prontype] The word 'O' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 342 Sent cairo-19]: [L3 Warning pron-det-without-prontype] The word 'Bu' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 394 Sent udtw23-1]: [L3 Warning pron-det-without-prontype] The word 'kını' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 492 Sent udtw23-7]: [L3 Warning pron-det-without-prontype] The word 'kılar' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 600 Sent udtw23-15]: [L3 Warning pron-det-without-prontype] The word 'belə' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 945 Sent 24]: [L3 Warning pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 958 Sent 25]: [L3 Warning pron-det-without-prontype] The word 'bir' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 1152 Sent 43]: [L3 Warning pron-det-without-prontype] The word 'ona' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+Warnings: 17
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0) = 0
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
+(weight=0.111111111111111) * (score{udeprels}=0.783783783783784) = 0.0870870870870871
+(TOTAL score=0.347595438575831) * (availability=1) * (validity=1) = 0.347595438575831
+STARS = 1.5
+UD_Azerbaijani-TueCL	0.347595438575831	1.5
