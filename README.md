@@ -20,8 +20,7 @@ Currently, Azerbaijani is written using three different alphabets: the Persian a
 
 # Acknowledgments
 
-We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) for their weekly informative meetings and discussions and for all the support we have received.
-
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) for their weekly informative meetings and discussions and for all the support we have received.
 
 ## References
 
@@ -29,6 +28,8 @@ We are deeply thankful to the [UD Turkic Group](https://github.com/ud-turkic) fo
 
 # Changelog
 
+* 2026-05-15 v2.18
+  * Added UniDive acknowledgment.
 * 2025-09-04 v2.16
   * add parallel corpus information to machine-readable metadata
   * add parallel data support with parallel_id metadata for cross-lingual sentence matching
